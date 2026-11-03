@@ -45,3 +45,11 @@ aside label, .plot-controls label{line-height:1.6}
   .source-item{gap:12px;flex-wrap:wrap}
   .stat span{font-size:14px}
 }
+
+/* Independent axis direction controls */
+.axis-directions{display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px;padding:7px 24px 10px;color:var(--muted)}
+.axis-directions .checkbox{display:flex;align-items:center;gap:7px;margin:0;font-size:14px;white-space:nowrap;cursor:pointer}
+.axis-directions input{width:16px;height:16px;margin:0;accent-color:var(--teal);cursor:pointer}
+.axis-directions>span{font-size:12px;margin-left:auto}
+@media(max-width:1100px){.axis-directions{padding-left:18px;padding-right:18px}.axis-directions>span{margin-left:0}}
+@media(max-width:650px){.axis-directions{padding:7px 15px 10px;gap:10px 22px}.axis-directions .checkbox{font-size:14px}.axis-directions>span{width:100%;font-size:12px}}

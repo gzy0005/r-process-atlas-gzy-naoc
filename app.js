@@ -82,8 +82,8 @@ function draw() {
     return [lo - pad, hi + pad];
   }
   const [xmin,xmax] = extent(xkey), [ymin,ymax] = extent(ykey);
-  const reverseX = xkey === 'teff' && ykey === 'logg';
-  const reverseY = ykey === 'logg' && xkey === 'teff';
+  const reverseX = $('reverseX').checked;
+  const reverseY = $('reverseY').checked;
   const X = x => m.l + (reverseX ? xmax - x : x - xmin) / (xmax - xmin) * (W - m.l - m.r);
   const Y = y => m.t + (reverseY ? y - ymin : ymax - y) / (ymax - ymin) * (H - m.t - m.b);
   const xt = ticks(xmin,xmax,W < 500 ? 4 : 6), yt = ticks(ymin,ymax,5);
@@ -93,12 +93,12 @@ function draw() {
   if (threshold) {
     if (ykey === 'eu') {
       bands += rect(xmin,xmax,0.3,0.7,'#eef8f5') + rect(xmin,xmax,0.7,ymax,'#f4f1fa');
-      if (Y(0.3) - Y(0.7) > 25) bandLabels += `<text x="${W-m.r-8}" y="${Y(0.5)+4}" text-anchor="end" fill="#488f87">r-I</text>`;
-      bandLabels += `<text x="${W-m.r-8}" y="${m.t+18}" text-anchor="end" fill="#8b79b1">r-II</text>`;
+      if (Math.abs(Y(0.3) - Y(0.7)) > 25) bandLabels += `<text x="${W-m.r-8}" y="${Y(0.5)+4}" text-anchor="end" fill="#488f87">r-I</text>`;
+      bandLabels += `<text x="${W-m.r-8}" y="${reverseY ? H-m.b-12 : m.t+18}" text-anchor="end" fill="#8b79b1">r-II</text>`;
     } else if (xkey === 'eu') {
       const upperBa = ykey === 'ba_eu' ? Math.min(0,ymax) : ymax;
       bands += rect(0.3,0.7,ymin,upperBa,'#eef8f5') + rect(0.7,xmax,ymin,upperBa,'#f4f1fa');
-      if (ykey === 'ba_eu') bandLabels += `<text x="${X(0.5)}" y="${H-m.b-14}" text-anchor="middle" fill="#488f87">r-I</text><text x="${X(Math.max(0.9,(0.7+xmax)/2))}" y="${H-m.b-14}" text-anchor="middle" fill="#8b79b1">r-II</text>`;
+      if (ykey === 'ba_eu') bandLabels += `<text x="${X(0.5)}" y="${reverseY ? m.t+18 : H-m.b-14}" text-anchor="middle" fill="#488f87">r-I</text><text x="${X(Math.max(0.9,(0.7+xmax)/2))}" y="${reverseY ? m.t+18 : H-m.b-14}" text-anchor="middle" fill="#8b79b1">r-II</text>`;
     }
     for (const [key,dir] of [[xkey,'x'],[ykey,'y']]) {
       const refsAt = key === 'eu' ? [0.3,0.7] : key === 'ba_eu' ? [0] : [];
@@ -115,16 +115,18 @@ function draw() {
     const marker = s.group === 'RPA' ? `<circle r="${radius}"/>` : `<path d="M0,-${radius+0.7}L${radius+0.7},0 0,${radius+0.7} -${radius+0.7},0Z"/>`;
     return `<g class="plot-point" transform="translate(${X(s[xkey])} ${Y(s[ykey])})" data-key="${esc(starKey(s))}" data-record="${esc(s.record_id)}" tabindex="0" role="button" aria-label="${esc(s.name)}, ${esc(classLabel(s.r_class))}, ${esc(labels[xkey])} ${fmt(s[xkey])}, ${esc(labels[ykey])} ${fmt(s[ykey])}" fill="${color}" fill-opacity="0.68" stroke="#fff" stroke-width="0.65">${marker}<circle class="point-hit" r="7.5" fill="transparent" stroke="none"/><title>${esc(s.name)} · ${esc(s.source)} · ${esc(classLabel(s.r_class))}</title></g>`;
   }).join('');
-  $('plot').innerHTML = `<svg id="scatterSVG" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(labels[xkey])} 与 ${esc(labels[ykey])} 的关系" style="font:13px 'Segoe UI','Microsoft YaHei',sans-serif;fill:#61767d"><title>R-process Atlas · ${esc(labels[xkey])} / ${esc(labels[ykey])}</title><defs><clipPath id="plotClip"><rect x="${m.l}" y="${m.t}" width="${W-m.l-m.r}" height="${H-m.t-m.b}"/></clipPath></defs><rect width="${W}" height="${H}" fill="white"/><g clip-path="url(#plotClip)">${bands}</g>${grid}${refs}<path d="M${m.l},${m.t}V${H-m.b}H${W-m.r}" fill="none" stroke="#87999e" stroke-width="1"/>${bandLabels}<g clip-path="url(#plotClip)">${marks}</g><text x="${m.l+(W-m.l-m.r)/2}" y="${H-10}" text-anchor="middle" style="font-size:15px;fill:#27424c">${esc(labels[xkey])}</text><text transform="translate(18 ${m.t+(H-m.t-m.b)/2}) rotate(-90)" text-anchor="middle" style="font-size:15px;fill:#27424c">${esc(labels[ykey])}</text>${!points.length ? `<text x="${W/2}" y="${H/2}" text-anchor="middle">当前筛选没有可绘制的点值</text>` : ''}</svg>`;
+  $('plot').innerHTML = `<svg id="scatterSVG" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(labels[xkey])} 与 ${esc(labels[ykey])} 的关系" style="font:13px 'Segoe UI','Microsoft YaHei',sans-serif;fill:#61767d"><desc>Horizontal axis ${reverseX ? 'decreasing' : 'increasing'} from left to right; vertical axis ${reverseY ? 'decreasing' : 'increasing'} from bottom to top.</desc><title>R-process Atlas · ${esc(labels[xkey])} / ${esc(labels[ykey])}</title><defs><clipPath id="plotClip"><rect x="${m.l}" y="${m.t}" width="${W-m.l-m.r}" height="${H-m.t-m.b}"/></clipPath></defs><rect width="${W}" height="${H}" fill="white"/><g clip-path="url(#plotClip)">${bands}</g>${grid}${refs}<path d="M${m.l},${m.t}V${H-m.b}H${W-m.r}" fill="none" stroke="#87999e" stroke-width="1"/>${bandLabels}<g clip-path="url(#plotClip)">${marks}</g><text x="${m.l+(W-m.l-m.r)/2}" y="${H-10}" text-anchor="middle" style="font-size:15px;fill:#27424c">${esc(labels[xkey])}</text><text transform="translate(18 ${m.t+(H-m.t-m.b)/2}) rotate(-90)" text-anchor="middle" style="font-size:15px;fill:#27424c">${esc(labels[ykey])}</text>${!points.length ? `<text x="${W/2}" y="${H/2}" text-anchor="middle">当前筛选没有可绘制的点值</text>` : ''}</svg>`;
   const colorLegend = colorBy === 'class' ? Object.entries(classes).filter(([key]) => points.some(s => s.r_class === key)).map(([,c]) => `<span><i class="dot" style="background:${c.color}"></i>${esc(c.label)}</span>`).join('') : '<span><i class="dot rpa"></i>RPA</span><span><i class="dot other"></i>其他研究</span>';
   $('plotLegend').innerHTML = `<div class="color-legend">${colorLegend}</div><div class="shape-legend"><span>● RPA</span><span>◆ 其他研究</span></div>`;
   $('plottedCount').textContent = `绘制 ${points.length} / ${filtered.length} 条记录${filtered.length-points.length ? ` · ${filtered.length-points.length} 条缺值或限值未绘制` : ''}`;
   const thresholdAxes = xkey === 'eu' || ykey === 'eu' || xkey === 'ba_eu' || ykey === 'ba_eu';
-  $('plotNote').textContent = xkey === 'teff' && ykey === 'logg' ? '大气参数图按天文惯例反向显示温度与表面重力。每个点仍对应所选文献的同一条测量。' : threshold && thresholdAxes ? '虚线标出 Eu = 0.3、0.7 或 Ba/Eu = 0。浅色区域提示 Eu 增丰范围；r-I / r-II 的最终判定同时要求 Ba/Eu < 0。' : '仅绘制当前坐标均为有效点值的记录；不跨论文平均丰度，不将限值当作检出值。';
+  $('plotNote').textContent = xkey === 'teff' && ykey === 'logg' ? '大气参数预设默认反转温度与表面重力坐标；可分别勾选或取消上方的反转选项。每个点仍对应所选文献的同一条测量。' : threshold && thresholdAxes ? '虚线标出 Eu = 0.3、0.7 或 Ba/Eu = 0。浅色区域提示 Eu 增丰范围；r-I / r-II 的最终判定同时要求 Ba/Eu < 0。' : '仅绘制当前坐标均为有效点值的记录；不跨论文平均丰度，不将限值当作检出值。';
+  const directions = [reverseX ? '横轴已反转' : '', reverseY ? '纵轴已反转' : ''].filter(Boolean);
+  if (directions.length) $('plotNote').textContent = directions.join(' · ') + '。' + $('plotNote').textContent;
   const preset = xkey === 'feh' && ykey === 'eu' ? 'abundance' : xkey === 'eu' && ykey === 'ba_eu' ? 'diagnostic' : xkey === 'teff' && ykey === 'logg' ? 'atmosphere' : '';
   $('plotTitle').textContent = ({abundance:'丰度与金属丰度',diagnostic:'主 r 过程分类诊断',atmosphere:'恒星大气参数'})[preset] || `${labels[ykey]} 与 ${labels[xkey]}`;
   document.querySelectorAll('[data-view]').forEach(b => {b.classList.toggle('active',b.dataset.view === preset); b.setAttribute('aria-pressed',String(b.dataset.view === preset));});
-  figure = {W,H,points:points.length,xkey,ykey,colorBy};
+  figure = {W,H,points:points.length,xkey,ykey,colorBy,reverseX,reverseY};
   const byRecord = new Map(points.map(s => [s.record_id,s]));
   $('plot').querySelectorAll('.plot-point').forEach(p => {
     const s = byRecord.get(p.dataset.record);
@@ -182,7 +184,7 @@ function exportedSVG() {
 }
 async function exportFigure(type) {
   if (!figure) return;
-  const svg = exportedSVG(), name = `RPE_${figure.xkey}_${figure.ykey}_20261103`;
+  const svg = exportedSVG(), name = `RPE_${figure.xkey}_${figure.ykey}${figure.reverseX ? '_x-reversed' : ''}${figure.reverseY ? '_y-reversed' : ''}_20261103`;
   if (type === 'svg') {saveBlob(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}),name+'.svg'); return;}
   const url = URL.createObjectURL(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}));
   try {
@@ -206,8 +208,8 @@ fetch('data/catalog.json').then(r => {if (!r.ok) throw Error('星表读取失败
   new ResizeObserver(() => {if (figure && Math.abs($('plot').clientWidth-figure.W)>2) draw();}).observe($('plot'));
 }).catch(err => {$('resultCount').textContent = '星表载入失败'; $('plot').innerHTML = '<p class="error">无法读取数据，请刷新页面重试。</p>'; console.error(err);});
 for (const id of ['search','group','class','basis','source','feMin','feMax','euMin','euMax','overlap']) $(id).addEventListener(id === 'search' ? 'input' : 'change',() => data && refresh());
-for (const id of ['xaxis','yaxis','colorBy','showThresholds']) $(id).onchange = () => draw();
-document.querySelectorAll('[data-view]').forEach(b => b.onclick = () => {const pair = {abundance:['feh','eu'],diagnostic:['eu','ba_eu'],atmosphere:['teff','logg']}[b.dataset.view]; $('xaxis').value = pair[0]; $('yaxis').value = pair[1]; draw();});
+for (const id of ['xaxis','yaxis','colorBy','showThresholds','reverseX','reverseY']) $(id).onchange = () => draw();
+document.querySelectorAll('[data-view]').forEach(b => b.onclick = () => {const pair = {abundance:['feh','eu'],diagnostic:['eu','ba_eu'],atmosphere:['teff','logg']}[b.dataset.view]; $('xaxis').value = pair[0]; $('yaxis').value = pair[1]; $('reverseX').checked = b.dataset.view === 'atmosphere'; $('reverseY').checked = b.dataset.view === 'atmosphere'; draw();});
 $('reset').onclick = () => {for (const id of ['search','group','class','basis','source','feMin','feMax','euMin','euMax']) $(id).value = ''; $('overlap').checked = false; if (data) refresh();};
 $('prev').onclick = () => {if (page>0) {page--; table();}};
 $('next').onclick = () => {if ((page+1)*15<filtered.length) {page++; table();}};

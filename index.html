@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="zh-CN">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="检索公开文献报道的 r 过程增丰恒星，使用统一的 0.3 / 0.7 分类阈值，逐星追溯原始丰度测量。"><title>R-process Atlas · 文献证认恒星库</title><link rel="stylesheet" href="style.css?v=3"></head>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="检索公开文献报道的 r 过程增丰恒星，使用统一的 0.3 / 0.7 分类阈值，逐星追溯原始丰度测量。"><title>R-process Atlas · 文献证认恒星库</title><link rel="stylesheet" href="style.css?v=4"></head>
 <body>
 <header><a class="brand" href="#explore"><span class="mark">✳</span><span>R-process <b>Atlas</b><small>文献证认恒星库</small></span></a><nav><a href="#explore">探索星表</a><a href="#sources">文献与方法</a><a class="nav-download" href="#downloads">下载数据 ↗</a></nav></header>
 <main>
@@ -34,6 +34,11 @@
 <label>配色<select id="colorBy"><option value="class">统一分类</option><option value="group">来源类别</option></select></label>
 <label class="checkbox threshold-toggle"><input id="showThresholds" type="checkbox" checked>分类参考线</label>
 </div>
+<div class="axis-directions" role="group" aria-label="坐标轴方向">
+<label class="checkbox"><input id="reverseX" type="checkbox">反转横轴</label>
+<label class="checkbox"><input id="reverseY" type="checkbox">反转纵轴</label>
+<span>方向设置同步用于 SVG / PNG 导出</span>
+</div>
 <div id="plotLegend" class="plot-legend"></div>
 <div id="plot" role="region" aria-label="恒星丰度交互散点图"></div>
 <div class="plot-foot"><span id="plottedCount"></span><span>悬停查看数值 · 点击追溯文献</span></div>
@@ -49,5 +54,5 @@
 </div><details><summary>查看本版收录文献与范围说明 <span>＋</span></summary><p class="coverage">本版是文献工作汇编，保留 702 颗不同恒星、814 条独立测量；统一分类不改变文献库的收录成员。未满足阈值或暂无法计算的记录仍保留并明确标记，不能计入严格统一 r-I / r-II 样本。本版并非全球所有文献的穷尽检索，部分早期数据仍依赖 Shank (2023) 汇编，原文证据尚未全部复核。图中的点值不包含缺失或限值，未导入的误差条不作推定。</p><p class="coverage"><a href="https://arxiv.org/abs/2007.00749" target="_blank" rel="noopener">Holmbeck et al. (2020) 分类依据 ↗</a>　<a href="data/README.md" download>字段与方法说明 ↓</a>　<a href="data/uniform_classification_changes.csv" download>分类变更核对表 ↓</a></p><div id="sourceList"></div></details></section>
 <section id="downloads"><div><div class="eyebrow">TAKE THE DATA WITH YOU</div><h2>下载文献星表</h2><p>UTF-8 CSV · 统一分类 + 文献原分类 · 分类状态 · 原始测量与证据</p></div><div class="download-links"><a href="data/RPA_confirmed_RPE_stars.csv" download>RPA 星表 <span>CSV ↓</span></a><a href="data/Other_highres_confirmed_RPE_stars.csv" download>其他高分辨率星表 <span>CSV ↓</span></a><a href="data/publication_measurements.csv" download>逐文献独立测量 <span>CSV ↓</span></a></div></section>
 </main><footer><b>R-process Atlas</b><span>文献快照 · 2026-11-03　|　统一分类 v2　|　查询方式参考 Hypatia，非其官方站点。</span></footer>
-<dialog id="detail"><button class="close" aria-label="关闭详情">×</button><div id="detailContent"></div></dialog><div id="tooltip" role="tooltip"></div><div id="notice" role="status" aria-live="polite"></div><script src="app.js?v=3"></script>
+<dialog id="detail"><button class="close" aria-label="关闭详情">×</button><div id="detailContent"></div></dialog><div id="tooltip" role="tooltip"></div><div id="notice" role="status" aria-live="polite"></div><script src="app.js?v=4"></script>
 </body></html>
