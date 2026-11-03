@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-03",
+  "rpa": 344,
+  "other": 387,
+  "unique": 702,
+  "overlap": 29,
+  "measurements": 814,
+  "sources": 81,
+  "scope": "Audited literature compilation, not a complete census. Includes primary-publication classifications and explicitly marked Shank2023 compilation classifications. Limited-r and r/s excluded. No DR13 data included.",
+  "classification_version": "2026-11-03-uniform-0.3-0.7",
+  "classification_rule": "r-I: 0.3 < [Eu/Fe] <= 0.7; r-II: [Eu/Fe] > 0.7; both [Ba/Eu] < 0; point values from the same measurement",
+  "classification_reference": "https://arxiv.org/abs/2007.00749",
+  "uniform_representative_counts": {
+    "r-I": 494,
+    "r-II": 206,
+    "unavailable": 16,
+    "boundary": 14,
+    "outside": 1
+  },
+  "uniform_measurement_counts": {
+    "r-I": 510,
+    "r-II": 239,
+    "unavailable": 50,
+    "boundary": 14,
+    "outside": 1
+  },
+  "uniform_group_counts": {
+    "RPA": {
+      "r-I": 233,
+      "r-II": 82,
+      "unavailable": 16,
+      "boundary": 13
+    },
+    "Other": {
+      "r-I": 261,
+      "r-II": 124,
+      "boundary": 1,
+      "outside": 1
+    }
+  }
+}
