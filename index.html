@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="检索公开文献报道的 r 过程增丰恒星，使用统一的 0.3 / 0.7 分类阈值，逐星追溯原始丰度测量。"><title>R-process Atlas · 文献证认恒星库</title><link rel="stylesheet" href="style.css?v=3"></head>
+<body>
+<header><a class="brand" href="#explore"><span class="mark">✳</span><span>R-process <b>Atlas</b><small>文献证认恒星库</small></span></a><nav><a href="#explore">探索星表</a><a href="#sources">文献与方法</a><a class="nav-download" href="#downloads">下载数据 ↗</a></nav></header>
+<main>
+<section class="hero"><div class="eyebrow">STELLAR CHEMICAL ARCHAEOLOGY · 2026.11</div><h1>追溯重元素，<br><span>从每一颗恒星开始。</span></h1><p>探索文献报道的 r 过程增丰恒星。统一分类阈值，保留独立测量，<br class="desktop">让每一个丰度值、每一次分类，都有可追溯的出处。</p><div class="hero-note">统一 r-I / r-II · 原始来源可查 · 保留文献分类</div><div class="orbit" aria-hidden="true"><i></i><i></i><i></i><span>Eu</span><small>63<br>Europium</small></div></section>
+<section class="stats" id="stats" aria-live="polite"></section>
+<section id="explore" class="explorer">
+<div class="section-heading"><div><div class="eyebrow">EXPLORE THE CATALOGUE</div><h2>检索恒星与丰度</h2></div><span class="tag">分类、图表与下载同步</span></div>
+<div class="classification-rule"><span class="rule-title">统一分类 <a href="https://arxiv.org/abs/2007.00749" target="_blank" rel="noopener" aria-label="Holmbeck 等 2020 年分类依据">↗</a></span><span><i class="dot class-i"></i><b>r-I</b>　0.3 &lt; [Eu/Fe] ≤ 0.7</span><span><i class="dot class-ii"></i><b>r-II</b>　[Eu/Fe] &gt; 0.7</span><span class="rule-common">两类均要求 [Ba/Eu] &lt; 0</span></div>
+<div class="layout">
+<aside>
+<div class="filter-head"><h3>筛选条件</h3><button id="reset" class="text-button">重置</button></div>
+<label>恒星名称 / 标识<input id="search" type="search" placeholder="例如 HD 222925、J1538…"></label>
+<label>来源类别<select id="group"><option value="">全部来源</option><option value="RPA">RPA</option><option value="Other">其他高分辨率研究</option></select></label>
+<label>统一 r 过程分类<select id="class"><option value="">全部文献对象</option><option value="r-I">r-I</option><option value="r-II">r-II</option><option value="boundary">阈值边界 · Eu = 0.30</option><option value="unavailable">待判定 · 缺值或限值</option><option value="outside">不满足统一阈值</option></select></label>
+<label>文献证据<select id="basis"><option value="">全部证据等级</option><option value="primary">原文分类 / 原作者准则</option><option value="compilation">Shank (2023) 文献汇编</option></select></label>
+<label>丰度原始文献<select id="source"><option value="">全部文献</option></select></label>
+<div class="range-label">[Fe/H] 范围 <span>dex</span></div><div class="range"><input id="feMin" type="number" step="0.1" placeholder="最低" aria-label="最低 Fe/H"><span>—</span><input id="feMax" type="number" step="0.1" placeholder="最高" aria-label="最高 Fe/H"></div>
+<div class="range-label">[Eu/Fe] 范围 <span>dex</span></div><div class="range"><input id="euMin" type="number" step="0.1" placeholder="最低" aria-label="最低 Eu/Fe"><span>—</span><input id="euMax" type="number" step="0.1" placeholder="最高" aria-label="最高 Eu/Fe"></div>
+<label class="checkbox"><input type="checkbox" id="overlap">仅两类来源共同报道的恒星</label>
+<p class="filter-note">每个点来自同一条文献测量。共同报道的恒星在两类来源中各保留一条代表记录。分类、数值范围与文献筛选作用于同一条测量。</p>
+</aside>
+<div class="results">
+<div class="result-head"><div><strong id="resultCount" aria-live="polite">读取星表…</strong><small id="plotCount"></small></div><button id="export" class="button secondary">下载筛选结果 ↓</button></div>
+<div id="classSummary" class="class-summary" aria-label="当前代表记录的统一分类数量"></div>
+<div class="plot-card">
+<div class="plot-heading"><div><div class="eyebrow">ABUNDANCE EXPLORER</div><h3 id="plotTitle">丰度与金属丰度</h3></div><div class="figure-download"><button id="saveSVG" title="下载可编辑矢量图">SVG ↓</button><button id="savePNG" title="下载三倍分辨率 PNG 图像">PNG ↓</button></div></div>
+<div class="plot-tabs" role="group" aria-label="图表预设"><button data-view="abundance" class="active" aria-pressed="true">丰度分布</button><button data-view="diagnostic" aria-pressed="false">分类诊断</button><button data-view="atmosphere" aria-pressed="false">大气参数</button></div>
+<div class="plot-controls">
+<label>横轴<select id="xaxis"><option value="feh">[Fe/H] (dex)</option><option value="eu">[Eu/Fe] (dex)</option><option value="ba_eu">[Ba/Eu] (dex)</option><option value="teff">Teff (K)</option><option value="logg">log g (dex)</option></select></label>
+<label>纵轴<select id="yaxis"><option value="eu">[Eu/Fe] (dex)</option><option value="ba_eu">[Ba/Eu] (dex)</option><option value="feh">[Fe/H] (dex)</option><option value="logg">log g (dex)</option><option value="teff">Teff (K)</option></select></label>
+<label>配色<select id="colorBy"><option value="class">统一分类</option><option value="group">来源类别</option></select></label>
+<label class="checkbox threshold-toggle"><input id="showThresholds" type="checkbox" checked>分类参考线</label>
+</div>
+<div id="plotLegend" class="plot-legend"></div>
+<div id="plot" role="region" aria-label="恒星丰度交互散点图"></div>
+<div class="plot-foot"><span id="plottedCount"></span><span>悬停查看数值 · 点击追溯文献</span></div>
+<p id="plotNote" class="plot-note"></p>
+</div>
+<div class="table-wrap"><table><thead><tr><th><button data-sort="name">恒星 ↕</button></th><th>来源</th><th><button data-sort="r_class">统一分类 ↕</button></th><th><button data-sort="feh">[Fe/H] ↕</button></th><th><button data-sort="eu">[Eu/Fe] ↕</button></th><th><button data-sort="ba_eu">[Ba/Eu] ↕</button></th><th>代表文献</th></tr></thead><tbody id="rows"></tbody></table></div>
+<div class="pagination"><span id="pageInfo"></span><div><button id="prev" aria-label="上一页">←</button><button id="next" aria-label="下一页">→</button></div></div>
+</div></div></section>
+<section id="sources" class="methods"><div class="eyebrow">PROVENANCE & METHODS</div><h2>统一比较，逐颗追溯</h2><div class="method-grid">
+<article><span>01 / 归属</span><h3>按丰度原始论文分组</h3><p>RPA 自测与其他高分辨率研究分开。同一颗星被两类研究独立报道时，两表均保留，并标注交集。RPA 主导的文献汇编不等同于 RPA 自测。</p></article>
+<article><span>02 / 分类</span><h3>同一标准，保留原始结论</h3><p>采用 Holmbeck et al. (2020) 的 0.3 / 0.7 分界，且要求 [Ba/Eu] &lt; 0。统一 r-II 包含原文 r-III；CEMP 为独立保留的属性。Eu = 0.30 标记为边界，缺值或限值标记为待判定。详情同时展示文献分类与证据。</p></article>
+<article><span>03 / 测量</span><h3>保留文献间的差异</h3><p>代表值来自同一条文献记录，优先原文证据、Eu/Ba 检出及较新发表的记录。不跨论文拼接 Ba/Eu，不平均丰度。统一分类阈值不代表太阳标尺、LTE / NLTE 或分析方法已统一。</p></article>
+</div><details><summary>查看本版收录文献与范围说明 <span>＋</span></summary><p class="coverage">本版是文献工作汇编，保留 702 颗不同恒星、814 条独立测量；统一分类不改变文献库的收录成员。未满足阈值或暂无法计算的记录仍保留并明确标记，不能计入严格统一 r-I / r-II 样本。本版并非全球所有文献的穷尽检索，部分早期数据仍依赖 Shank (2023) 汇编，原文证据尚未全部复核。图中的点值不包含缺失或限值，未导入的误差条不作推定。</p><p class="coverage"><a href="https://arxiv.org/abs/2007.00749" target="_blank" rel="noopener">Holmbeck et al. (2020) 分类依据 ↗</a>　<a href="data/README.md" download>字段与方法说明 ↓</a>　<a href="data/uniform_classification_changes.csv" download>分类变更核对表 ↓</a></p><div id="sourceList"></div></details></section>
+<section id="downloads"><div><div class="eyebrow">TAKE THE DATA WITH YOU</div><h2>下载文献星表</h2><p>UTF-8 CSV · 统一分类 + 文献原分类 · 分类状态 · 原始测量与证据</p></div><div class="download-links"><a href="data/RPA_confirmed_RPE_stars.csv" download>RPA 星表 <span>CSV ↓</span></a><a href="data/Other_highres_confirmed_RPE_stars.csv" download>其他高分辨率星表 <span>CSV ↓</span></a><a href="data/publication_measurements.csv" download>逐文献独立测量 <span>CSV ↓</span></a></div></section>
+</main><footer><b>R-process Atlas</b><span>文献快照 · 2026-11-03　|　统一分类 v2　|　查询方式参考 Hypatia，非其官方站点。</span></footer>
+<dialog id="detail"><button class="close" aria-label="关闭详情">×</button><div id="detailContent"></div></dialog><div id="tooltip" role="tooltip"></div><div id="notice" role="status" aria-live="polite"></div><script src="app.js?v=3"></script>
+</body></html>
