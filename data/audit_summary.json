@@ -1,0 +1,321 @@
+{
+  "before": {
+    "updated": "2026-11-03",
+    "rpa": 344,
+    "other": 387,
+    "unique": 702,
+    "overlap": 29,
+    "measurements": 814,
+    "sources": 81,
+    "scope": "Audited literature compilation, not a complete census. Includes primary-publication classifications and explicitly marked Shank2023 compilation classifications. Limited-r and r/s excluded. No DR13 data included.",
+    "classification_version": "2026-11-03-uniform-0.3-0.7",
+    "classification_rule": "r-I: 0.3 < [Eu/Fe] <= 0.7; r-II: [Eu/Fe] > 0.7; both [Ba/Eu] < 0; point values from the same measurement",
+    "classification_reference": "https://arxiv.org/abs/2007.00749",
+    "uniform_representative_counts": {
+      "r-I": 494,
+      "r-II": 206,
+      "unavailable": 16,
+      "boundary": 14,
+      "outside": 1
+    },
+    "uniform_measurement_counts": {
+      "r-I": 510,
+      "r-II": 239,
+      "unavailable": 50,
+      "boundary": 14,
+      "outside": 1
+    },
+    "uniform_group_counts": {
+      "RPA": {
+        "r-I": 233,
+        "r-II": 82,
+        "unavailable": 16,
+        "boundary": 13
+      },
+      "Other": {
+        "r-I": 261,
+        "r-II": 124,
+        "boundary": 1,
+        "outside": 1
+      }
+    }
+  },
+  "after": {
+    "updated": "2026-11-03",
+    "rpa": 344,
+    "other": 410,
+    "unique": 724,
+    "overlap": 30,
+    "measurements": 841,
+    "sources": 88,
+    "scope": "Audited literature compilation, not a complete census. Primary-publication classifications and explicitly marked Shank2023 compilation classifications. Numerical-only candidates are separate and excluded from main counts. No DR13 data included.",
+    "classification_version": "2026-11-03-uniform-0.3-0.7",
+    "classification_rule": "r-I: 0.3 < [Eu/Fe] <= 0.7; r-II: [Eu/Fe] > 0.7; both [Ba/Eu] < 0; point values from the same measurement",
+    "classification_reference": "https://arxiv.org/abs/2007.00749",
+    "uniform_representative_counts": {
+      "r-I": 502,
+      "r-II": 220,
+      "unavailable": 16,
+      "boundary": 14,
+      "outside": 2
+    },
+    "uniform_measurement_counts": {
+      "r-I": 520,
+      "r-II": 255,
+      "unavailable": 50,
+      "boundary": 14,
+      "outside": 2
+    },
+    "uniform_group_counts": {
+      "RPA": {
+        "r-I": 233,
+        "r-II": 82,
+        "unavailable": 16,
+        "boundary": 13
+      },
+      "Other": {
+        "r-I": 269,
+        "r-II": 138,
+        "boundary": 1,
+        "outside": 2
+      }
+    },
+    "literature_audit_version": "2026-11-03-primary-literature-audit",
+    "audit_numerical_candidates": 49
+  },
+  "new_measurements_by_source": {
+    "Saraf2023_HESP_GOMPA": 4,
+    "daSilva2025_pair": 2,
+    "Kane2026_disk": 14,
+    "Hansen2017_TucIII": 1,
+    "Marshall2019_TucIII": 4,
+    "Hansen2020_GrusII": 1,
+    "Hansen2024_TucV": 1
+  },
+  "numerical_candidates_by_source": {
+    "DR3_Ezzeddine2020": 1,
+    "DR5_Bandyopadhyay2024": 1,
+    "Lucertini2025_MINCEIII": 20,
+    "Francois2024_MINCEII": 27
+  },
+  "new_identities": 22,
+  "candidate_rows_matching_main_stars": 3,
+  "identity_matches": [
+    {
+      "name": "TYC 3431-689-1",
+      "source": "Saraf2023_HESP_GOMPA",
+      "star_id": "RPE00232",
+      "match_method": "position <= 3 arcsec",
+      "nearest_existing_star": "RPE00232",
+      "nearest_separation_arcsec": 0.8224
+    },
+    {
+      "name": "HD 263815",
+      "source": "Saraf2023_HESP_GOMPA",
+      "star_id": "RPE00200",
+      "match_method": "position <= 3 arcsec",
+      "nearest_existing_star": "RPE00200",
+      "nearest_separation_arcsec": 0.272
+    },
+    {
+      "name": "TYC 1191-918-1",
+      "source": "Saraf2023_HESP_GOMPA",
+      "star_id": "RPE00035",
+      "match_method": "position <= 3 arcsec",
+      "nearest_existing_star": "RPE00035",
+      "nearest_separation_arcsec": 1.8864
+    },
+    {
+      "name": "TYC 1716-1548-1",
+      "source": "Saraf2023_HESP_GOMPA",
+      "star_id": "RPE00672",
+      "match_method": "position <= 3 arcsec",
+      "nearest_existing_star": "RPE00672",
+      "nearest_separation_arcsec": 0.9009
+    },
+    {
+      "name": "BPS CS 29529-0089",
+      "source": "daSilva2025_pair",
+      "star_id": "RPE00150",
+      "match_method": "exact Gaia DR3",
+      "nearest_existing_star": "RPE00150",
+      "nearest_separation_arcsec": 0.1573
+    },
+    {
+      "name": "TYC 9219-2422-1",
+      "source": "daSilva2025_pair",
+      "star_id": "RPE00705",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00252",
+      "nearest_separation_arcsec": 9432.7929
+    },
+    {
+      "name": "Gaia DR3 5812990677522553088",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00706",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00487",
+      "nearest_separation_arcsec": 16237.0884
+    },
+    {
+      "name": "Gaia DR3 2594341150806513152",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00707",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00645",
+      "nearest_separation_arcsec": 7259.6632
+    },
+    {
+      "name": "Gaia DR3 5554733916052133504",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00708",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00189",
+      "nearest_separation_arcsec": 21466.8495
+    },
+    {
+      "name": "Gaia DR3 6180136233010067712",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00709",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00350",
+      "nearest_separation_arcsec": 7333.7251
+    },
+    {
+      "name": "Gaia DR3 5815617720050615296",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00710",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00463",
+      "nearest_separation_arcsec": 5179.2524
+    },
+    {
+      "name": "Gaia DR3 6649156522981897216",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00711",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00512",
+      "nearest_separation_arcsec": 17016.4513
+    },
+    {
+      "name": "Gaia DR3 5826335450183043712",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00712",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00710",
+      "nearest_separation_arcsec": 23401.699
+    },
+    {
+      "name": "Gaia DR3 4072767025506772736",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00713",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00525",
+      "nearest_separation_arcsec": 1690.5673
+    },
+    {
+      "name": "Gaia DR3 3315270000060075264",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00714",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00176",
+      "nearest_separation_arcsec": 42406.5238
+    },
+    {
+      "name": "Gaia DR3 3317287569535823616",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00715",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00714",
+      "nearest_separation_arcsec": 7494.0873
+    },
+    {
+      "name": "Gaia DR3 3121696446800800768",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00716",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00714",
+      "nearest_separation_arcsec": 11718.2249
+    },
+    {
+      "name": "Gaia DR3 5343958808333671296",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00717",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00288",
+      "nearest_separation_arcsec": 8931.2318
+    },
+    {
+      "name": "Gaia DR3 5407989761325108992",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00718",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00257",
+      "nearest_separation_arcsec": 13881.4878
+    },
+    {
+      "name": "Gaia DR3 5347640518706841344",
+      "source": "Kane2026_disk",
+      "star_id": "RPE00719",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00288",
+      "nearest_separation_arcsec": 11612.7153
+    },
+    {
+      "name": "DES J235532.66-593114.9",
+      "source": "Hansen2017_TucIII",
+      "star_id": "RPE00720",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00007",
+      "nearest_separation_arcsec": 6073.1158
+    },
+    {
+      "name": "DES J000549-593406",
+      "source": "Marshall2019_TucIII",
+      "star_id": "RPE00721",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00720",
+      "nearest_separation_arcsec": 4686.5978
+    },
+    {
+      "name": "DES J234351-593926",
+      "source": "Marshall2019_TucIII",
+      "star_id": "RPE00722",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00720",
+      "nearest_separation_arcsec": 5351.3256
+    },
+    {
+      "name": "DES J235550-593300",
+      "source": "Marshall2019_TucIII",
+      "star_id": "RPE00723",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00720",
+      "nearest_separation_arcsec": 168.0366
+    },
+    {
+      "name": "DES J235738-593612",
+      "source": "Marshall2019_TucIII",
+      "star_id": "RPE00724",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00723",
+      "nearest_separation_arcsec": 846.8821
+    },
+    {
+      "name": "DES J220423.91-463702.5",
+      "source": "Hansen2020_GrusII",
+      "star_id": "RPE00725",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00631",
+      "nearest_separation_arcsec": 7341.2455
+    },
+    {
+      "name": "Tuc V-2",
+      "source": "Hansen2024_TucV",
+      "star_id": "RPE00726",
+      "match_method": "new identity",
+      "nearest_existing_star": "RPE00691",
+      "nearest_separation_arcsec": 3960.5533
+    }
+  ]
+}

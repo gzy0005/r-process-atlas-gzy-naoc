@@ -1,93 +1,99 @@
-﻿star_id,name,group,record_id,source,eu,ba,ba_eu,literature_r_class,r_class,uniform_class_status,uniform_class_note
-RPE00010,J0006+0123,Other,,Lin2026,0.87,-0.18,-1.05,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00011,RAVEJ000738.2-034551,RPA,,DR2_Sakari2018,0.73,0.11,-0.62,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00020,2MASSJ00193176+3141441,RPA,,Shah2026,0.49,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00031,2MASSJ00401252+2729247,RPA,,Racca2025,1.0,0.38,-0.62,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00032,2MASSJ00405260-5122491,RPA,,DR1_Hansen2018,0.86,-0.04,-0.9,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00039,2MASSJ00453930-7457294,RPA,,DR1_Hansen2018,0.55,0.37,-0.18000000000000005,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00043,2MASSJ00524174-0902235,RPA,,DR3_Ezzeddine2020,0.94,-0.72,-1.66,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00054,RAVE J010839.6-285701,Other,,Zepeda2022 (SALT),0.45,-0.52,-0.97,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00058,2MASSJ01202234-5425582,RPA,,DR1_Hansen2018,0.3,0.16,-0.13999999999999999,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00059,2MASSJ01213447-2528002,RPA,,DR4_Holmbeck2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00063,RAVE J012931.1-160046,Other,,Zepeda2022 (SALT),1.68,1.11,-0.5699999999999998,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00066,2MASSJ01320993+3300431,RPA,,Shah2026,0.71,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00073,RAVE J014908.0-491143,Other,,Zepeda2022 (SALT),0.35,-0.39,-0.74,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00074,2MASSJ01493760-4551222,RPA,,DR4_Holmbeck2020,0.3,-0.05,-0.35,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00075,2MASSJ01530024-3417360,RPA,,DR1_Hansen2018,0.71,0.09,-0.62,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00076,2MASSJ01542216+0341454,RPA,,Shah2026,0.34,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00077,2MASSJ01553180-4919420,RPA,,DR3_Ezzeddine2020,0.72,0.15,-0.57,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00078,2MASSJ01555066-6400155,RPA,,DR3_Ezzeddine2020,0.8,0.1,-0.7000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00080,RAVEJ015656.3-140211,RPA,,DR2_Sakari2018,0.76,-0.11,-0.87,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00092,2MASSJ02172993-1903583,RPA,,Racca2025,1.57,0.65,-0.92,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00098,2MASSJ02355867-6745520,RPA,,DR1_Hansen2018,0.5,0.49,-0.010000000000000009,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00102,2MASSJ02462013-1518419,RPA,,Racca2025,1.43,0.78,-0.6499999999999999,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00105,2MASSJ02500719-5145148,RPA,,DR1_Hansen2018,0.62,0.48,-0.14,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00112,RAVE J030639.1-692040,Other,,Zepeda2022 (SALT),0.32,0.2,-0.12,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00131,DES J033548-540349,Other,,Ji et al. (2016; Reticulum II),0.95,0.36,-0.59,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00132,GDR3 1760,Other,,Hayes et al. (2023; GHOST Reticulum II),1.85,1.24,-0.6100000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00133,GDR3 0928,Other,,Hayes et al. (2023; GHOST Reticulum II),2.36,1.57,-0.7899999999999998,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00150,2MASSJ04141624-6009048,RPA,,Shah2026,1.73,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00154,TYC 75-1185-1,RPA,,DR2_Sakari2018,0.78,0.0,-0.78,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00156,2MASSJ04245677-6500173,RPA,,DR3_Ezzeddine2020,0.3,0.19,-0.10999999999999999,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00159,2MASSJ04315411-0632100,RPA,,DR4_Holmbeck2020,0.3,-0.1,-0.4,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00172,TYC 5329-1927-1,RPA,,DR2_Sakari2018,0.89,0.13,-0.76,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00203,RAVE J070520.3-334324,Other,,Zepeda2022 (SALT),0.68,0.4,-0.28,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00208,2MASSJ07150266-0154092,RPA,,DR3_Ezzeddine2020,0.88,0.52,-0.36,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00227,2MASSJ08474871-2204315,RPA,,Shah2026,0.94,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00231,RAVEJ091858.9-231151,RPA,,DR2_Sakari2018,0.71,-0.06,-0.77,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00239,RAVEJ093730.5-062655,RPA,,Sakari2019,0.85,0.08,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00254,RAVE J100824.9-231412,Other,,Zepeda2022 (SALT),0.55,0.36,-0.19000000000000006,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00259,2MASSJ10251539-3554026,RPA,,Shah2026,0.77,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00279,2MASSJ11093699-2005278,RPA,,Shah2026,0.56,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00280,2MASSJ11165400-7250160,RPA,,DR3_Ezzeddine2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00295,RAVEJ114638.8-042240,RPA,,DR2_Sakari2018,0.62,0.32,-0.3,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00300,RAVE J115337.3-020037,Other,,Zepeda2022 (SALT),1.11,0.54,-0.5700000000000001,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00311,2MASSJ12091322-1415313,RPA,,DR2_Sakari2018,0.81,0.11,-0.7000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00323,2MASSJ12233047-4216365,RPA,,DR3_Ezzeddine2020,0.3,-0.32,-0.62,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00332,2MASSJ12351734+0945333,RPA,,DR3_Ezzeddine2020,0.3,0.05,-0.25,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00333,RAVE J123550.1-313111,Other,,Zepeda2022 (SALT),0.57,0.06,-0.51,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00333,2MASSJ12355013-3131112,RPA,,Shah2026,0.51,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00340,2MASSJ12571667-4335318,RPA,,DR4_Holmbeck2020,0.3,0.15,-0.15,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00349,RAVE J130524.5-393126,Other,,Rasmussen+2020,0.76,0.12,-0.64,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00364,RAVEJ133748.9-082617,RPA,,DR2_Sakari2018,0.93,0.02,-0.91,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00373,2MASSJ13524835+1254216,RPA,,DR3_Ezzeddine2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00381,2MASSJ14043762+0011117,RPA,,DR2_Sakari2018,0.58,0.38,-0.19999999999999996,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00395,2MASSJ14234371-4025526,RPA,,DR3_Ezzeddine2020,0.3,0.1,-0.19999999999999998,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00399,2MASSJ14301385-2317388,RPA,,Racca2025,0.62,0.05,-0.57,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00402,2MASSJ14325334-4125494,RPA,,Racca2025,1.49,0.86,-0.63,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00426,J1516+0442,Other,,Lin2026,0.3,-0.21,-0.51,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00430,2MASSJ15213995-3538094,RPA,,Cain2020,2.23,1.35,-0.8799999999999999,r-III,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00440,2MASSJ15582962-1224344,RPA,,DR1_Hansen2018,0.89,0.04,-0.85,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00447,2MASSJ16110508-1107125,RPA,,Shah2026,0.57,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00479,2MASSJ17163340-7009028,RPA,,DR3_Ezzeddine2020,0.89,0.05,-0.84,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00488,2MASSJ17405736-5339473,RPA,,Shah2026,0.44,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00491,2MASSJ17435113-5359333,RPA,,DR1_Hansen2018,0.73,-0.07,-0.8,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00501,RAVE J180242.3-440443,Other,,Rasmussen+2020,1.2,0.03,-1.17,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00504,2MASS J18082459-2548444,Other,,Forsberg et al. (2023; Galactic bulge),0.78,0.78,0.0,r-II,outside,outside_threshold,[Ba/Eu] ≥ 0，不满足本版统一主 r 过程条件；保留文献报道。
-RPE00516,2MASSJ18294359-4924253,RPA,,DR3_Ezzeddine2020,0.89,0.29,-0.6000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00522,2MASSJ18332056-3802590,RPA,,DR3_Ezzeddine2020,0.3,-0.2,-0.5,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00531,2MASSJ19014952-4844359,RPA,,DR1_Hansen2018,0.93,-0.24,-1.17,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00539,2MASSJ19161821-5544454,RPA,,Racca2025,0.81,0.11,-0.7000000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00541,2MASSJ19215077-4452545,RPA,,DR1_Hansen2018,0.74,-0.31,-1.05,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00542,2MASSJ19232518-5833410,RPA,,DR1_Hansen2018,0.76,0.11,-0.65,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00544,RAVE J192632.8-584657,Other,,Rasmussen+2020,0.76,-0.35,-1.1099999999999999,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00550,2MASSJ19324858-5908019,RPA,,DR1_Hansen2018,0.9,0.65,-0.25,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00562,2MASSJ19563822-4054235,RPA,,DR3_Ezzeddine2020,0.3,-0.2,-0.5,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
-RPE00571,J2005-3057,RPA,,Cain2018,0.94,0.19,-0.75,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00573,2MASSJ20093393-3410273,RPA,,Racca2025,1.2,0.18,-1.02,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00577,RAVE J202029.2-270735,Other,,Zepeda2022 (SALT),0.81,-0.34,-1.1500000000000001,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00584,RAVEJ203622.6-071420,RPA,,DR2_Sakari2018,0.48,-0.57,-1.0499999999999998,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00595,2MASSJ20492765-5124440,RPA,,Racca2025,0.39,-0.14,-0.53,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00601,2MASSJ21051293-0439557,RPA,,Shah2026,0.67,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00604,2MASSJ21064294-6828266,RPA,,Racca2025,1.1,0.52,-0.5800000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00605,2MASSJ21091329-1310253,RPA,,Racca2025,1.06,0.51,-0.55,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00607,2MASSJ21095804-0945400,RPA,,DR1_Hansen2018,0.77,-0.12,-0.89,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00610,2MASSJ21224590-4641030,RPA,,DR1_Hansen2018,0.9,0.01,-0.89,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00624,2MASSJ22041814-0232101,RPA,,Shah2026,0.39,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00629,2MASSJ22132050-5137385,RPA,,Roederer2024,2.45,1.72,-0.7300000000000002,r-III,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00640,RAVE J222236.0-013827,Other,,Zepeda2022 (SALT),0.66,-1.22,-1.88,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00642,2MASSJ22242502+0111262,RPA,,Shah2026,0.55,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00668,RAVE J231300.0-450707,Other,,Zepeda2022 (SALT),0.55,-0.52,-1.07,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00685,J2333+0505,Other,,Lin2026,0.71,-0.21,-0.9199999999999999,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
-RPE00693,2MASSJ23451760-6154429,RPA,,Shah2026,1.17,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
-RPE00699,2MASSJ23513299+3937545,RPA,,Shah2026,0.61,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+﻿star_id,name,group,source,eu,ba,ba_eu,literature_r_class,r_class,uniform_class_status,uniform_class_note
+RPE00010,J0006+0123,Other,Lin2026,0.87,-0.18,-1.05,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00011,RAVEJ000738.2-034551,RPA,DR2_Sakari2018,0.73,0.11,-0.62,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00020,2MASSJ00193176+3141441,RPA,Shah2026,0.49,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00031,2MASSJ00401252+2729247,RPA,Racca2025,1.0,0.38,-0.62,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00032,2MASSJ00405260-5122491,RPA,DR1_Hansen2018,0.86,-0.04,-0.9,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00039,2MASSJ00453930-7457294,RPA,DR1_Hansen2018,0.55,0.37,-0.18000000000000005,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00043,2MASSJ00524174-0902235,RPA,DR3_Ezzeddine2020,0.94,-0.72,-1.66,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00054,RAVE J010839.6-285701,Other,Zepeda2022 (SALT),0.45,-0.52,-0.97,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00058,2MASSJ01202234-5425582,RPA,DR1_Hansen2018,0.3,0.16,-0.13999999999999999,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00059,2MASSJ01213447-2528002,RPA,DR4_Holmbeck2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00063,RAVE J012931.1-160046,Other,Zepeda2022 (SALT),1.68,1.11,-0.5699999999999998,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00066,2MASSJ01320993+3300431,RPA,Shah2026,0.71,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00073,RAVE J014908.0-491143,Other,Zepeda2022 (SALT),0.35,-0.39,-0.74,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00074,2MASSJ01493760-4551222,RPA,DR4_Holmbeck2020,0.3,-0.05,-0.35,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00075,2MASSJ01530024-3417360,RPA,DR1_Hansen2018,0.71,0.09,-0.62,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00076,2MASSJ01542216+0341454,RPA,Shah2026,0.34,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00077,2MASSJ01553180-4919420,RPA,DR3_Ezzeddine2020,0.72,0.15,-0.57,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00078,2MASSJ01555066-6400155,RPA,DR3_Ezzeddine2020,0.8,0.1,-0.7000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00080,RAVEJ015656.3-140211,RPA,DR2_Sakari2018,0.76,-0.11,-0.87,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00092,2MASSJ02172993-1903583,RPA,Racca2025,1.57,0.65,-0.92,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00098,2MASSJ02355867-6745520,RPA,DR1_Hansen2018,0.5,0.49,-0.010000000000000009,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00102,2MASSJ02462013-1518419,RPA,Racca2025,1.43,0.78,-0.6499999999999999,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00105,2MASSJ02500719-5145148,RPA,DR1_Hansen2018,0.62,0.48,-0.14,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00112,RAVE J030639.1-692040,Other,Zepeda2022 (SALT),0.32,0.2,-0.12,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00131,DES J033548-540349,Other,Ji et al. (2016; Reticulum II),0.95,0.36,-0.59,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00132,GDR3 1760,Other,Hayes et al. (2023; GHOST Reticulum II),1.85,1.24,-0.6100000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00133,GDR3 0928,Other,Hayes et al. (2023; GHOST Reticulum II),2.36,1.57,-0.7899999999999998,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00150,2MASSJ04141624-6009048,RPA,Shah2026,1.73,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00154,TYC 75-1185-1,RPA,DR2_Sakari2018,0.78,0.0,-0.78,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00156,2MASSJ04245677-6500173,RPA,DR3_Ezzeddine2020,0.3,0.19,-0.10999999999999999,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00159,2MASSJ04315411-0632100,RPA,DR4_Holmbeck2020,0.3,-0.1,-0.4,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00172,TYC 5329-1927-1,RPA,DR2_Sakari2018,0.89,0.13,-0.76,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00203,RAVE J070520.3-334324,Other,Zepeda2022 (SALT),0.68,0.4,-0.28,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00208,2MASSJ07150266-0154092,RPA,DR3_Ezzeddine2020,0.88,0.52,-0.36,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00227,2MASSJ08474871-2204315,RPA,Shah2026,0.94,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00231,RAVEJ091858.9-231151,RPA,DR2_Sakari2018,0.71,-0.06,-0.77,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00239,RAVEJ093730.5-062655,RPA,Sakari2019,0.85,0.08,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00254,RAVE J100824.9-231412,Other,Zepeda2022 (SALT),0.55,0.36,-0.19000000000000006,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00259,2MASSJ10251539-3554026,RPA,Shah2026,0.77,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00279,2MASSJ11093699-2005278,RPA,Shah2026,0.56,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00280,2MASSJ11165400-7250160,RPA,DR3_Ezzeddine2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00295,RAVEJ114638.8-042240,RPA,DR2_Sakari2018,0.62,0.32,-0.3,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00300,RAVE J115337.3-020037,Other,Zepeda2022 (SALT),1.11,0.54,-0.5700000000000001,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00311,2MASSJ12091322-1415313,RPA,DR2_Sakari2018,0.81,0.11,-0.7000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00323,2MASSJ12233047-4216365,RPA,DR3_Ezzeddine2020,0.3,-0.32,-0.62,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00332,2MASSJ12351734+0945333,RPA,DR3_Ezzeddine2020,0.3,0.05,-0.25,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00333,RAVE J123550.1-313111,Other,Zepeda2022 (SALT),0.57,0.06,-0.51,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00333,2MASSJ12355013-3131112,RPA,Shah2026,0.51,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00340,2MASSJ12571667-4335318,RPA,DR4_Holmbeck2020,0.3,0.15,-0.15,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00349,RAVE J130524.5-393126,Other,Rasmussen+2020,0.76,0.12,-0.64,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00364,RAVEJ133748.9-082617,RPA,DR2_Sakari2018,0.93,0.02,-0.91,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00373,2MASSJ13524835+1254216,RPA,DR3_Ezzeddine2020,0.3,-0.3,-0.6,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00381,2MASSJ14043762+0011117,RPA,DR2_Sakari2018,0.58,0.38,-0.19999999999999996,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00395,2MASSJ14234371-4025526,RPA,DR3_Ezzeddine2020,0.3,0.1,-0.19999999999999998,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00399,2MASSJ14301385-2317388,RPA,Racca2025,0.62,0.05,-0.57,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00402,2MASSJ14325334-4125494,RPA,Racca2025,1.49,0.86,-0.63,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00426,J1516+0442,Other,Lin2026,0.3,-0.21,-0.51,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00430,2MASSJ15213995-3538094,RPA,Cain2020,2.23,1.35,-0.8799999999999999,r-III,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00440,2MASSJ15582962-1224344,RPA,DR1_Hansen2018,0.89,0.04,-0.85,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00447,2MASSJ16110508-1107125,RPA,Shah2026,0.57,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00479,2MASSJ17163340-7009028,RPA,DR3_Ezzeddine2020,0.89,0.05,-0.84,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00488,2MASSJ17405736-5339473,RPA,Shah2026,0.44,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00491,2MASSJ17435113-5359333,RPA,DR1_Hansen2018,0.73,-0.07,-0.8,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00501,RAVE J180242.3-440443,Other,Rasmussen+2020,1.2,0.03,-1.17,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00504,2MASS J18082459-2548444,Other,Forsberg et al. (2023; Galactic bulge),0.78,0.78,0.0,r-II,outside,outside_threshold,[Ba/Eu] ≥ 0，不满足本版统一主 r 过程条件；保留文献报道。
+RPE00516,2MASSJ18294359-4924253,RPA,DR3_Ezzeddine2020,0.89,0.29,-0.6000000000000001,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00522,2MASSJ18332056-3802590,RPA,DR3_Ezzeddine2020,0.3,-0.2,-0.5,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00531,2MASSJ19014952-4844359,RPA,DR1_Hansen2018,0.93,-0.24,-1.17,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00539,2MASSJ19161821-5544454,RPA,Racca2025,0.81,0.11,-0.7000000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00541,2MASSJ19215077-4452545,RPA,DR1_Hansen2018,0.74,-0.31,-1.05,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00542,2MASSJ19232518-5833410,RPA,DR1_Hansen2018,0.76,0.11,-0.65,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00544,RAVE J192632.8-584657,Other,Rasmussen+2020,0.76,-0.35,-1.1099999999999999,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00550,2MASSJ19324858-5908019,RPA,DR1_Hansen2018,0.9,0.65,-0.25,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00562,2MASSJ19563822-4054235,RPA,DR3_Ezzeddine2020,0.3,-0.2,-0.5,r-I,boundary,eu_boundary,文献点值 [Eu/Fe] = 0.30，位于严格下界；不根据舍入值推定 r-I。
+RPE00571,J2005-3057,RPA,Cain2018,0.94,0.19,-0.75,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00573,2MASSJ20093393-3410273,RPA,Racca2025,1.2,0.18,-1.02,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00577,RAVE J202029.2-270735,Other,Zepeda2022 (SALT),0.81,-0.34,-1.1500000000000001,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00584,RAVEJ203622.6-071420,RPA,DR2_Sakari2018,0.48,-0.57,-1.0499999999999998,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00595,2MASSJ20492765-5124440,RPA,Racca2025,0.39,-0.14,-0.53,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00601,2MASSJ21051293-0439557,RPA,Shah2026,0.67,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00604,2MASSJ21064294-6828266,RPA,Racca2025,1.1,0.52,-0.5800000000000001,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00605,2MASSJ21091329-1310253,RPA,Racca2025,1.06,0.51,-0.55,RPE,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00607,2MASSJ21095804-0945400,RPA,DR1_Hansen2018,0.77,-0.12,-0.89,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00610,2MASSJ21224590-4641030,RPA,DR1_Hansen2018,0.9,0.01,-0.89,r-I,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00624,2MASSJ22041814-0232101,RPA,Shah2026,0.39,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00629,2MASSJ22132050-5137385,RPA,Roederer2024,2.45,1.72,-0.7300000000000002,r-III,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00640,RAVE J222236.0-013827,Other,Zepeda2022 (SALT),0.66,-1.22,-1.88,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00642,2MASSJ22242502+0111262,RPA,Shah2026,0.55,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00668,RAVE J231300.0-450707,Other,Zepeda2022 (SALT),0.55,-0.52,-1.07,CEMP-r,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00685,J2333+0505,Other,Lin2026,0.71,-0.21,-0.9199999999999999,CEMP-r,r-II,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00693,2MASSJ23451760-6154429,RPA,Shah2026,1.17,,,r-II,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00699,2MASSJ23513299+3937545,RPA,Shah2026,0.61,,,r-I,unavailable,missing_or_limit,同一条文献测量的 Eu 或 Ba 缺失或为限值，统一分类待判定。
+RPE00711,Gaia DR3 6649156522981897216,Other,Kane2026_disk,0.7,-0.06,-0.76,r-II,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00721,DES J000549-593406,Other,Marshall2019_TucIII,0.49,0.11,-0.38,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00722,DES J234351-593926,Other,Marshall2019_TucIII,0.44,-0.2,-0.64,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00723,DES J235550-593300,Other,Marshall2019_TucIII,0.56,-0.05,-0.61,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。
+RPE00724,DES J235738-593612,Other,Marshall2019_TucIII,0.22,0.14,-0.08,RPE,outside,outside_threshold,[Eu/Fe] ≤ 0.3，不满足本版统一主 r 过程条件；保留文献报道。
+RPE00725,DES J220423.91-463702.5,Other,Hansen2020_GrusII,0.31,-0.49,-0.8,RPE,r-I,classified,同文献 Eu、Ba 点值满足统一阈值；原文 r-III 并入统一 r-II，CEMP 属性另行保留。

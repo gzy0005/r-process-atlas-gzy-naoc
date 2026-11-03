@@ -1,0 +1,750 @@
+﻿source,name,published_class,Eu_Fe,Ba_Fe,Eu_status,Ba_status,reference,decision
+DR1_Hansen2018,2MASSJ00002259-1302275,r-I,0.58,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ00021222-2241388,,0.22,-0.41,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ00021668-2453494,r-I,0.52,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ00133067-1259594,,-0.06,-0.55,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ00233067-1631428,Unknown,0.27,-0.55,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ00400685-4325183,r-I,0.55,-1.56,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ00405260-5122491,r-I,0.86,-0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ00453930-7457294,CEMP-r,0.55,0.37,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ01202234-5425582,r-I,0.3,0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ01293113-1600454,r-II,1.76,0.95,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ01334657-2727374,CEMP-s,0.88,1.61,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ01425422-5032488,r-I,0.38,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ01430726-6445174,,-0.14,-0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ01451951-2800583,limited-r,-0.38,-0.98,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ01490794-4911429,,0.09,-0.59,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ01530024-3417360,r-I,0.71,0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ02040793-3127556,limited-r,0.0,-0.77,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ02165716-7547064,r-II,1.12,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ02355867-6745520,CEMP-r,0.5,0.49,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ02401075-1416290,CEMP-s,0.84,1.69,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ02412152-1825376,,0.2,0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ02441479-5158241,,0.2,-0.8,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ02462013-1518419,r-II,1.45,0.6,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ02500719-5145148,CEMP-r,0.62,0.48,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ03193531-3250433,Unknown,1.14,-0.15,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ03563703-5838281,limited-r,0.11,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ04121388-1205050,r-I,0.52,-0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ13164824-2743351,r-I,0.54,0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ14033542-3335257,,0.29,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ14164084-2422000,limited-r,0.02,-0.44,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ14232679-2834200,r-I,0.61,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ14301385-2317388,r-I,0.62,0.34,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ14325334-4125494,r-II,1.61,0.71,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ14381119-2120085,,0.62,0.97,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ15260106-0911388,r-II,1.7,0.69,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ15271353-2336177,r-I,0.7,-0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ15575183-0839549,,0.7,1.68,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ15582962-1224344,r-I,0.89,0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ16024498-1521016,r-I,0.55,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ16080681-3215592,,0.25,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ16095117-0941174,,0.17,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ16103106+1003055,Unknown,0.7,-1.1,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ16184302-0630558,Unknown,0.2,-0.6,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17093199-6027271,r-I,0.6,-0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ17094926-6239285,,0.02,-0.45,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17124284-5211479,r-I,0.48,-0.58,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ17225742-7123000,r-II,1.07,0.7,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ17255680-6603395,,0.18,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17273886-5133298,,0.48,0.48,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17285930-7427532,limited-r,0.23,-0.53,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17334285-5121550,,0.2,0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ17400682-6102129,r-I,0.31,-0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ17435113-5359333,r-I,0.73,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18024226-4404426,r-II,1.05,0.95,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18121045-4934495,limited-r,-0.07,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ18285086-3434203,r-I,0.53,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18294122-4504000,r-I,0.7,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18362318-6428124,r-I,0.57,0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18363613-7136597,r-I,0.56,-0.37,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ18562774-7251331,r-I,0.32,-0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19014952-4844359,r-I,0.93,-0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19161821-5544454,r-II,1.08,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19172402-4211240,,0.11,-0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19173310-6628545,,0.0,-0.6,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19202070-6627202,limited-r,0.29,-0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19215077-4452545,r-I,0.74,-0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19232518-5833410,r-I,0.76,0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19324858-5908019,r-I,0.9,0.65,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ19345497-5751400,limited-r,0.17,-0.71,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19494025-5424113,limited-r,-0.39,-1.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19534978-5940001,limited-r,0.04,-0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ19594558-2549075,limited-r,0.04,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20093393-3410273,r-II,1.32,0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ20144608-5635300,CEMP-s,0.92,1.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20165357-0503592,,0.0,-1.1,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20303339-2519500,r-I,0.41,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ20313531-3127319,limited-r,-0.3,-0.79,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20445584-2250597,,-0.09,-0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20492765-5124440,r-I,0.58,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ20514971-6158008,r-I,0.43,-0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ20542346-0033097,limited-r,0.0,-0.03,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ20560913-1331176,limited-r,0.0,-0.56,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21023752-5316132,limited-r,0.2,-1.63,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21063474-4957500,r-I,0.54,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21064294-6828266,r-II,1.32,0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21091825-1310062,r-II,1.25,0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21095804-0945400,r-I,0.77,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21141350-5726363,limited-r,-0.4,-0.94,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21152551-1503309,,0.73,1.41,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21162185-0213420,r-I,0.49,0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21224590-4641030,r-I,0.9,0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21262525-2144243,r-I,0.58,-0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ21291592-4236219,Unknown,-0.2,-0.54,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21370807-0927347,limited-r,0.11,-0.61,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ21513595-0543398,,0.02,-0.66,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ22021636-0536483,limited-r,-0.12,-0.75,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ22163596+0246171,r-I,0.45,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ22444701-5617540,,-0.21,0.77,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ22492756-2238289,r-I,0.48,-0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ22531984-2248555,,0.88,1.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ22595884-1554182,limited-r,-0.3,-0.58,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ23022289-6833233,r-I,0.61,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ23044914-4243477,limited-r,0.07,-0.42,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ23130003-4507066,Unknown,0.05,-0.65,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ23265258-0159248,r-I,0.69,0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR1_Hansen2018,2MASSJ23310716-0223301,CEMP-s,2.09,2.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR1_Hansen2018,2MASSJ23362202-5607498,r-II,1.14,0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/858/92/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ00011195+0321051,non-RPE,0.22,0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00101758-1735387,r-II,1.35,0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ00162809-0505519,limited-r?,0.1,-1.21,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00195350-0145445,non-RPE,0.28,-0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00282278-3934598,non-RPE,-0.2,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00372794-2045307,non-RPE,-0.28,-0.39,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00452379-2112161,r-I,0.4,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ00463619-3739335,non-RPE,0.8,-0.59,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ00512646-1053170,r-II,1.21,0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ00524174-0902235,r-I,0.94,-0.72,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ01165010-6307441,r-I,0.37,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ01374434-4301490,non-RPE,0.0,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ01473804-1130474,CEMP-r/s,0.3,0.7,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ01501343+0725010,non-RPE,0.1,-1.13,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ01553180-4919420,r-I,0.72,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ01555066-6400155,r-I,0.8,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ02005020-4657352,CEMP-r-I?,0.31,-0.19,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ02111462-8107085,limited-r?,-0.1,-1.14,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ02395318-7019014,r/s,0.15,0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ03073894-0502491,r-II,1.27,0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ03154102-7626329,r-I,0.5,-0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ03270229+0132322,r-II,1.07,0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ03423645-1335529,r-I?,0.8,0.8,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ04245677-6500173,r-I,0.3,0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ04304875-4613535,non-RPE,0.1,-0.16,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ05030025-7601462,r-I,0.4,-0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ05202930-5825297,non-RPE,-0.1,-1.25,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ05241392-0336543,r-II,1.5,0.47,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ05384334-5147228,CEMP-limited-r,-0.2,-0.66,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ05432623-8051334,non-RPE,0.12,-0.59,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ05573684-5127209,CEMP-r/s,2.2,2.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ06392518-7414056,r-I,0.4,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ07123398-4814049,non-RPE,-0.4,-1.9,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ07150266-0154092,r-I,0.88,0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ07151852-5252051,limited-r?,0.15,-0.87,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ07250021-7022038,CEMP-r-I,0.33,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ07443970-4425135,CEMP-no,0.1,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ08025449-5224304,limited-r,0.1,-0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ08295142-7242542,r-I?,0.44,0.01,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ09103481+0518228,non-RPE,0.12,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ09291557+0838002,limited-r?,-0.3,-1.0,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ09531322+0744515,r-I,0.5,0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ10063414-7030212,r-I,0.39,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ10073075+0348357,limited-r?,-0.5,-2.1,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ10524610-0336012,non-RPE,-0.05,-0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ10550658+1931580,r-I,0.5,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ11165400-7250160,r-I,0.3,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ11191233-1609467,CEMP-s,0.91,1.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ11303693+0224037,r-I,0.35,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ11471027+0341265,r-I,0.4,-0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ11510227-6940416,r-I,0.48,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ11565537+0320329,non-RPE,0.2,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ12170829+0415146,r-II,1.1,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ12203297+0257138,r-I,0.45,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ12233047-4216365,r-I,0.3,-0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ12255123-2351074,r-I,0.52,-0.34,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ12331670+1622563,non-RPE,0.2,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ12351734+0945333,r-I,0.3,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ12591462-7049592,r-I,0.5,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13052137-1137220,r-II,1.09,0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13261792-0945176,r-I,0.4,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13273676-1710384,non-RPE,0.2,-0.3,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ13275198+0342396,non-RPE,0.2,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ13373017-7717500,non-RPE,0.2,-0.3,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ13494713-7423395,r-I,0.7,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13511539-7340363,r-I,0.5,0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13524835+1254216,r-I,0.3,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ13554406-3750455,non-RPE,-0.3,-0.65,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ13592232-6821493,non-RPE,0.2,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14100568-0701443,r-I,0.68,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ14112614-1137453,CEMP-no,-0.5,-1.2,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14234371-4025526,r-I,0.3,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ14335592-1240357,limited-r?,0.15,-1.7,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14355850-0719265,non-RPE,0.2,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14443014-1320092,non-RPE,0.09,-0.45,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14533268-3614555,r-I?,0.6,-0.4,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14534137+0040467,r-II,1.8,1.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ14543792+0830379,CEMP-rII,1.1,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ14564556-1615432,r-I?,0.3,-0.3,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ14590234-0916105,r-I,0.45,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ15013452-2443310,CEMP-no,0.0,-0.8,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ15042611-2231523,r-I,0.54,0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ15133549-1244339,CEMP-r-I,0.55,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ15204531-1742486,r-I,0.35,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ15240713-0319509,non-RPE,0.05,-0.2,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ15272126-1445153,non-RPE,0.26,-0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ16115667-8034422,CEMP-r/s,0.9,1.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ16163600-5700568,limited-r,-0.2,-0.9,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ16592172-6827199,r-I?,0.4,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17043634-6219457,r-I,0.55,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17060555+0412354,r-I,0.5,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17070759-7817561,non-RPE,0.28,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ17131974-7113010,r-I,0.5,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17163340-7009028,r-I,0.89,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17360167-5145296,r-I,0.5,-0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ17541561-5148268,r-I,0.5,-0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ18272432-5655165,r-I?,0.4,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,candidate only: original r-I? uncertain label
+DR3_Ezzeddine2020,2MASSJ18284356-8441346,r/s,1.21,1.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ18294359-4924253,r-I,0.89,0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ18332056-3802590,r-I,0.3,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ18333188-4840403,non-RPE,0.1,-0.2,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ18361214-7333443,non-RPE,-0.3,-0.4,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ18405985-4841353,CEMP-limited-r?,-0.1,-0.45,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ18560360-6403465,non-RPE,0.2,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19092677-5140208,r-I,0.6,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ19105886-4059412,non-RPE,-0.4,-0.4,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19175585-5440147,CEMP-no,0.12,-0.41,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19192768-5959140,r-I,0.6,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,intentional historical withdrawal; later non-RPE reclassification
+DR3_Ezzeddine2020,2MASSJ19282163-2457545,non-RPE,0.2,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19291910-5528181,r-I,0.56,0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ19310426-3707397,r-I,0.4,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ19320444-7309178,limited-r?,-0.8,-1.0,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19504989-3321107,CEMP-no,0.0,-0.65,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19532495-3647303,non-RPE,0.2,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ19552158-4613569,r-I,0.37,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ19563822-4054235,r-I,0.3,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ19570893-3317320,non-RPE,-0.3,-0.48,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20035532-5028100,limited-r?,-0.35,-1.4,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20192202-6130149,CEMP-limited-r?,-0.05,-1.0,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20202917-2707347,non-RPE,0.1,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20234398-0815472,non-RPE,-0.4,-0.95,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20242122-2656435,limited-r?,0.1,-0.7,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20374042-5520500,r-I,0.4,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ20445065-3714000,limited-r?,-0.15,-0.18,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20501790-0549230,limited-r?,0.2,-0.99,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ20585505-1759007,limited-r?,-0.35,-0.9,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ21220020-0820333,r-I,0.4,0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ21234588-0839448,non-RPE,-0.4,-1.25,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ21352343-5722598,non-RPE,-0.28,-0.75,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ21553580-0905118,non-RPE,0.02,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ22182082-3827554,r-II,1.1,0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ22215794-3602090,non-RPE,-0.2,-0.25,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ22220344-8024592,CEMP-r-I,0.37,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ22253443-2027171,non-RPE,0.2,-0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ22300238-6332191,non-RPE,0.25,-0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ22302641-1949527,r-I,0.4,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ22344202-0826492,non-RPE,0.0,-0.6,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR3_Ezzeddine2020,2MASSJ22345447-6605172,r-I,0.4,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ22394827-0803536,r-I,0.6,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ23100319-7702165,r-I,0.65,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR3_Ezzeddine2020,2MASSJ23411581-6406440,r-I,0.35,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/898/150/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00002416-1107454,r-I,0.5,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00023429-1924590,r-I,0.56,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00041581-5815524,r-II,0.95,0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00062986-5049319,non-RPE,-0.15,-0.7,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ00093394-1857008,r-I,0.46,0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00154806-6253207,r-I,0.4,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00172430-3333151,r-I,0.59,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00182832-3900338,r-I,0.57,0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00223225-4839449,r-I,0.65,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00374325-1204391,non-RPE,0.28,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ00410929-0328595,non-RPE,0.12,-0.49,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ00413026-4058547,r-I,0.38,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00442897-1017497,r-I,0.47,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00452879-5846450,r-I,0.57,0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00482431-1041309,r-I,0.45,0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ00584386-3005576,unknown,0.3,-0.15,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01083959-2857013,unknown,0.5,-0.13,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01094330-5907230,limited-r,0.01,-0.49,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01213447-2528002,r-I,0.3,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01265856+0135153,non-RPE,0.0,-0.93,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01311599-4016510,r-I,0.53,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01321981-3040512,r-I,0.42,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01352315-0817533,s,0.43,1.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01371888-1729037,r-I,0.33,-0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01373857-2618131,r-I,0.62,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01425232-4657481,non-RPE,0.22,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01425445-0904162,r-II,0.83,0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ01451383-4302313,non-RPE,0.13,-0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ01493760-4551222,r-I,0.3,-0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02070641-5009166,r-I,0.65,0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02212400-4056480,r-I,0.46,-0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02215117-5933316,unknown,0.5,-0.18,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ02215557-5410143,unknown,0.8,0.42,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ02215793-2130429,non-RPE,0.18,0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ02230804-3129531,r-I,0.45,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02265832-0749596,r-I,0.56,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02515281-3717316,r-I,0.33,-0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ02570028-3024374,r-I,0.55,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ03142084-1035112,unknown,0.55,-0.35,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ03190629-0819306,non-RPE,-0.15,-0.55,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ03210882-3944213,r-I,0.55,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ03422816-6500355,r-II,1.05,0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ03425812-3047217,r-I,0.67,0.55,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ04012191-2635058,r-I,0.38,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ04014897-3757533,non-RPE,0.18,0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ04182158-2323391,r-I,0.48,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ04263084-4058516,r-I,0.4,0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ04315411-0632100,r-I,0.3,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ04350131-0959363,non-RPE,0.2,-0.75,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ04411241-6518438,non-RPE,0.29,-0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ04420818-3421138,CEMP-s,0.6,1.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ04520910-6209121,r-I,0.46,-0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05311779-5810048,r-I,0.65,-0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05381700-7516207,r-I,0.53,0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05383296-5904280,r-II,1.28,0.76,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05514213-3327337,r-I,0.49,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05521578-3953184,r-I,0.41,-0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ05564771-6639054,r-I,0.45,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06014757-5951510,non-RPE,0.26,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ06055404-3306288,non-RPE,0.93,1.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ06090353-7122260,r-I,0.32,-0.45,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06195001-5312114,r-II,0.73,-0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06290787-6709523,r-I,0.46,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06320130-2026538,r-I,0.7,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06332771-3519240,r-I,0.45,0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06401317-3540444,r-I,0.38,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ06420823-5116448,non-RPE,0.05,-0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ06592949-5406125,non-RPE,0.43,0.8,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ07052028-3343242,r-I,0.57,0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07103110-7121522,r-II,1.05,0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07123398-4814049,non-RPE,-0.2,-1.2,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ07161594-5135248,r-I,0.46,0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07202253-3358518,r-II,1.44,0.68,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07265723-5647500,r-I,0.65,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07352232-4425010,r-II,0.79,0.39,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07393021-5548171,r-I,0.63,0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07411443-4339360,r-I,0.5,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ07482433-4831405,non-RPE,0.06,0.34,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ07501424-4123454,r-I,0.59,0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08015897-5752032,r-I,0.55,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08032084-5856521,r-I,0.49,0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08134364-2332528,r-I,0.32,0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08155667-2204105,r-I,0.57,0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08311233-6013195,non-RPE,0.14,-0.39,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ08393460-2122069,r-I,0.42,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ08594093-1415151,r-I,0.52,0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ09214783-0214582,non-RPE,0.23,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ09255655-3450373,r-I,0.62,0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ09261133-1526232,r-I,0.43,0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ09284944-0738585,r-I,0.6,0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ09310102-0304052,non-RPE,0.33,0.36,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ09364069-2038386,r-I,0.48,0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ09471921-4127042,non-RPE,-0.45,-0.89,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ09574607-3923072,r-I,0.55,0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10025125-4331098,r-I,0.42,-0.71,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10080064-1008523,s,0.37,1.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10082492-2314124,r-I,0.4,0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10121964-3221347,r-I,0.55,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10162157-2959521,non-RPE,0.22,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10174884-4818125,non-RPE,0.28,0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10191573-1924464,r-II,0.75,0.73,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10194932-4900584,r-I,0.45,0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10251539-3554026,non-RPE,0.47,0.6,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10302845-7543299,r-I,0.53,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10344785-4823544,limited-r,-0.08,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10345348-1117221,r-I,0.35,-0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10362687-3746174,r-I,0.6,0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10401894-4106124,r-II,0.82,0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ10540994-1347522,non-RPE,0.3,-1.27,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10563033-3428423,limited-r,-0.63,-1.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ10581140-2634179,non-RPE,0.2,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11014865-3749526,r-I,0.5,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ11142319-3208509,non-RPE,0.23,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11265122-1805295,non-RPE,0.04,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11301705-1449325,r-I,0.55,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ11325299-2913137,non-RPE,0.15,-0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11370170-5401298,r-I,0.63,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ11373800-5202251,non-RPE,0.09,-0.49,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11404726-0833030,r-I,0.55,0.36,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ11404944-1615396,r-II,0.88,0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ11444480-1128167,unknown,0.5,-0.08,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ11515010-0545441,non-RPE,0.23,0.62,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12044314-2911051,r-II,0.71,0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12050944-1204531,non-RPE,0.25,0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12062488-4741150,non-RPE,-0.11,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12070990-3653243,r-I,0.4,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12100070-3130359,non-RPE,0.26,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12102259-4902190,r-I,0.58,0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12170912-2721034,non-RPE,0.22,-0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12192034-1721547,non-RPE,0.11,-0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12232106-5305536,non-RPE,-0.04,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12341308-3149577,r-I,0.35,0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12405721-4051430,r-I,0.45,0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12424489-1315032,unknown,0.5,0.2,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ12535742-3801355,r-I,0.53,-0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12571667-4335318,r-I,0.3,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ12572833-5125217,non-RPE,-0.13,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13085850-2712188,limited-r,0.2,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13101305-3342369,r-I,0.53,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ13214178-4320055,r-I,0.58,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ13241428-1806211,non-RPE,-0.01,-0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13315746-1929446,r-I,0.51,0.44,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ13330890-4654079,r-I,0.49,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ13335283-2623539,limited-r,-0.04,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13421261-1417354,non-RPE,-0.16,-0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13530579-4438041,unknown,0.6,-1.07,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ13573542-3032486,unknown,0.4,-0.45,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14030859-3214014,r-I,0.56,0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ14032900-5250429,r-I,0.38,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ14091000-3013572,non-RPE,0.24,0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14155955-3219255,r-I,0.47,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ14165685+1215598,non-RPE,-0.01,-1.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14180866-2842077,r-I,0.55,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ14254628-1546301,non-RPE,0.25,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14283907-2044594,non-RPE,0.29,0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14354680-1124122,r-II,0.72,0.42,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ14392683-1949132,non-RPE,0.25,0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14435196-2106283,limited-r,-0.3,-0.45,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14533307-4428301,limited-r,-0.26,-0.78,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14560449-3950349,non-RPE,0.08,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ14592981-3852558,r-II,0.93,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ15023852-4602066,non-RPE,-0.16,-0.61,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ15062866-1428038,r-I,0.65,-0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ15141994-4359554,non-RPE,0.02,-0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ15155734-1054220,r-I,0.66,0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ15230675-7930072,non-RPE,0.36,-0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ15293404-3906241,r-I,0.34,-0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ15320193-2211091,non-RPE,0.15,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ15360493+0247300,non-RPE,0.22,-0.86,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ15573010-2939228,unknown,,-0.05,missing,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ15582703-1136532,non-RPE,0.39,0.81,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ16064231-1632461,non-RPE,-0.2,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ16285613-1014576,non-RPE,0.31,0.41,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ16524315-6719521,unknown,0.7,-1.0,upper_limit,upper_limit,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ17013206-5507454,non-RPE,0.3,-0.1,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ17383643-5358288,r-I,0.55,-0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ17414840-5340354,r-I,0.63,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ18050641-4907579,r-II,0.73,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ18272347-5133001,r-I,0.56,0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ18301354-4555101,CEMP,0.8,0.09,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ19050116-1949280,non-RPE,0.3,0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ19175585-5440147,CEMP-no,-0.05,-0.46,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ19232941-4425432,r-I,0.38,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ19345326-3236567,r-I,0.63,0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ19441170-3526278,r-I,0.4,0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ19445483-4039459,r-I,0.33,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,intentional historical withdrawal; later non-RPE reclassification
+DR4_Holmbeck2020,2MASSJ19451414-1729269,r-I,0.55,-0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ19510180-6331111,non-RPE,0.36,0.36,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ19584974-1812109,unknown,0.2,-0.77,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ20000364-3301351,r-II,0.9,0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20005766-2541488,r-I,0.4,0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20080083-2759265,r-I,0.35,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20100948-4408274,non-RPE,0.13,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ20103193-3558546,r-I,0.38,-0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20152296-3740178,non-RPE,0.13,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ20194310-3158163,r-I,0.46,0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20233743-1659533,r-I,0.5,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20305648-3446521,non-RPE,0.28,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ20411424-4654315,r-II,0.88,-0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20435776-4408037,r-II,0.78,0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20453454-1431151,r-I,0.31,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20504869-3355289,r-I,0.62,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ20554594-3155159,r-I,0.67,-0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ21003824-0539171,r-I,0.38,-0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ21055865-4919336,r-I,0.67,0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ21080151-6555366,non-RPE,0.18,-0.25,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ21103411-6331354,non-RPE,0.1,-0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ21314253-1459110,non-RPE,-0.05,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ21402305-1227035,limited-r,0.0,-0.26,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ21462219-0512324,r-I,0.45,0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22115488-2847382,non-RPE,0.28,0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ22125424-0235414,r-I,0.34,0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22161170-5319492,r-I,0.59,0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22190836-2333467,r-II,0.87,0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22223324-1314488,non-RPE,-0.04,-0.47,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ22233596-5301145,non-RPE,0.23,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ22371623-1608005,unknown,1.0,0.15,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ22372037-4741375,r-II,0.84,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22373316-4341181,r-I,0.4,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ22585069-3923437,non-RPE,0.02,-0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ23060975-6107368,r-I,0.31,-0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23181358-6252270,non-RPE,0.16,-0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ23242766-2728055,r-I,0.55,0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23254164-2356206,r-I,0.42,0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23285061-0432368,r-I,0.53,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23330336-4437127,non-RPE,0.16,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ23342332-2748003,r-II,0.71,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23425814-4327352,r-I,0.36,-0.01,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23434113-6019223,unknown,0.5,-1.34,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR4_Holmbeck2020,2MASSJ23475942-5701184,r-I,0.45,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23490902-2447176,r-I,0.65,-0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,included in main catalogue
+DR4_Holmbeck2020,2MASSJ23552837+0421179,non-RPE,0.06,-0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/249/30/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,CS 31082-0001,r-II,1.72,1.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,TYC 5861-1732-1,not-RPE,0.29,-0.45,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,CS 22169-0035,limited-r,0.01,-1.44,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,TYC 75-1185-1,r-I,0.78,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,TYC 5911-452-1,not-RPE,0.72,-0.68,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,TYC 5329-1927-1,r-I,0.89,0.13,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,TYC 6535-3183-1,r-I,0.31,-0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,TYC 4924-33-1,not-RPE,0.2,-0.44,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,HE 1116-0634,not-RPE,0.67,-2.03,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,TYC 6088-1943-1,not-RPE,0.06,-0.48,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,BD-13 3442,limited-r?,1.7,-0.6,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,BD-01 2582,CEMP-s,0.74,1.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,HE 1317-0407,not-RPE,0.18,-0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,HE 1320-1339,limited-r,-0.08,-0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,HD 122563,limited-r,-0.32,-0.92,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,TYC 4995-333-1,not-RPE,0.18,-0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,HE 1523-0901,r-II,1.82,1.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,TYC 6900-414-1,r-I,0.49,0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ203843.2-002333,r-II,1.42,0.69,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,BD-02 5957,r-I,0.91,0.4,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ000738.2-034551,r-I,0.73,0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ001236.5-181631,not-RPE,-0.12,-0.63,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ002244.9-172429,CEMP-no,2.12,-0.73,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ003052.7-100704,limited-r,0.0,-0.71,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ005327.8-025317,r-I,0.39,-0.24,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ005419.7-061155,r-I,0.59,-0.21,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ010727.4-052401,limited-r,0.16,-0.61,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ014519.5-280058,limited-r,0.1,-1.05,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ015656.3-140211,r-I,0.76,-0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,2MASSJ02134021-0005183,not-RPE,0.16,0.05,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ022741.1-051923,r-I,0.42,-0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ022938.7-130747,?,0.95,-0.32,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ023610.8-120256,not-RPE,0.3,-0.29,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ024139.0-042735,r-I,0.48,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ024236.8-070746,?,1.04,-0.08,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ024325.9-324902,not-RPE?,0.93,-0.95,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ024620.1-151842,r-II,1.29,0.65,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ030714.8-053455,r-I,0.5,0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ031337.3-102056,r-I,0.42,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ034346.3-092417,r-I,0.38,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ034621.6-073008,not-RPE,0.16,-0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ035509.3-063711,limited-r,0.25,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ041929.7-051749,r-I,0.4,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ042324.4-131506,not-RPE,0.08,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ043422.5-232528,limited-r?,-0.53,-2.27,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ044150.9-230348,?,0.55,-0.41,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ045301.7-243714,r-I,0.59,-0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ045651.5-311543,r-I,0.34,-0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ050550.5-214508,not-RPE,0.15,-0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ051727.4-134235,not-RPE,0.21,-0.43,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ05254724-3049100,not-RPE,0.12,0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ061033.5-314107,limited-r?,1.3,-1.57,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ070520.3-334324,r-I,0.62,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ071142.5-343237,r-II,1.3,0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ091043.1-144419,limited-r,0.03,-1.64,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ091858.9-231151,r-I,0.71,-0.06,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ092949.7-290559,not-RPE,0.14,-0.37,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ094634.8-062653,r-I,0.35,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ094921.8-161722,CEMP-r/s,0.36,0.61,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ095036.7-250628,not-RPE,0.1,-0.57,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ095246.9-085554,limited-r,0.24,-1.05,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ095801.8-144614,r-I,0.59,0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ100448.6-270650,r-I,0.41,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ102237.8-340021,r-I,0.37,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ103139.9-082759,not-RPE,0.26,-0.23,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ103634.4-193436,limited-r,0.26,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ104921.9-115417,r-I,0.33,-0.16,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ105136.9-211547,r-I,0.32,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ105941.4-205225,r-I,0.35,-0.07,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ112034.0-240615,not-RPE,0.16,-0.17,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ112427.4-215510,not-RPE,0.22,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ113017.1-144933,r-I,0.5,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ113901.0-055814,not-RPE,0.29,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ114440.9-040951,r-I,0.58,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,2MASSJ11444480-1128167,r-I,0.35,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ114638.8-042240,CEMP-r,0.62,0.32,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ114729.9-052145,r-I,0.31,-0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ115801.3-152218,limited-r,0.15,-1.07,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ120456.3-075923,r-I,0.33,-0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,2MASSJ12091322-1415313,r-I,0.81,0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ121846.5-161051,limited-r,0.17,-1.5,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ122927.0-044233,r-I,0.46,-0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ123749.3-094930,not-RPE,0.19,-0.27,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ125039.9-030749,r-I,0.45,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ125631.4-083410,r-I,0.45,-0.28,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ130200.0-084328,r/s,0.41,0.55,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ130604.3-094730,not-RPE,0.12,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ13072823-0931148,not-RPE,0.1,-0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ132139.3-113805,not-RPE,0.08,-0.36,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ13254554-1747547,r-I,0.4,-0.44,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ132604.5-152502,limited-r,-0.28,-0.67,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ132846.9-173136,not-RPE,0.2,-0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ133352.8-262354,limited-r,0.2,-0.55,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ133514.0-011052,r-I,0.53,-0.22,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ133748.9-082617,r-I,0.93,0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ133931.4-125721,not-RPE,0.1,-0.42,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ13402720-0016031,not-RPE,0.29,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ134254.1-071701,r-I,0.44,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,2MASSJ13431929-2358139,CEMP-no,0.15,-0.77,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ140308.6-321401,not-RPE,0.12,-0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ14043762+0011117,CEMP-r,0.58,0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ141015.9-034355,r-I,0.67,-0.12,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ141640.8-242200,not-RPE,0.14,-0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ141808.7-284208,r-I,0.43,-0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ141914.0-084441,r-I,0.34,-0.15,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ150025.0-061337,r-I,0.39,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ150203.0-052857,not-RPE,0.24,0.0,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ150757.0-065959,r-I,0.36,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ150833.9-145917,r-I,0.49,-0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ151116.8+002525,r-I,0.41,-0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ151608.7-212200,CEMP-no,0.09,-0.48,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ15211026-0607566,r-I,0.93,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ152713.5-233618,?,0.74,-0.11,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ153421.9-085747,limited-r,-0.13,-1.22,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ153830.9-180424,r-II,1.27,0.62,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ154204.1-013121,not-RPE,0.26,-0.35,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ154755.2-083710,limited-r,-0.1,-0.5,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ155427.3+002137,not-RPE,-0.09,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ160245.0-152102,not-RPE,0.25,0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ160612.7-040034,not-RPE,0.23,-0.17,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ160642.3-163245,limited-r,-0.27,-0.57,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ160951.2-094118,r-I,0.41,-0.3,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ161228.4-054142,not-RPE,0.2,0.03,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ161228.3-084808,r-I,0.58,0.04,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ161635.6-040115,r-I,0.52,-0.19,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ161843.1-063056,not-RPE?,-0.27,-0.59,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ162722.5-084836,not-RPE,0.12,0.1,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ162856.2-101457,r-I,0.36,-0.02,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ163931.1-052252,limited-r,-0.07,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ164551.2-042947,limited-r,-0.15,-0.37,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ181146.8-212609,not-RPE,0.28,0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ190501.2-194928,r-I,0.36,-0.08,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ200506.7-305745,r-I,0.86,0.36,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ201027.8-082656,r-I,0.42,-0.39,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ203226.1+000014,not-RPE,0.26,-0.29,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ203622.6-071420,CEMP-r,0.48,-0.57,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ203858.9-025212,r-I,0.59,-0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ205423.5-003310,CEMP-no/lim-r,-0.18,-0.27,upper_limit,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ205849.2-035434,r-I,0.36,-0.09,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ211621.9-021342,r-I,0.6,-0.31,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ215136.0-054340,not-RPE,0.22,-0.54,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,2MASSJ22562536-0719562,r-II,1.1,0.26,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR2_Sakari2018,RAVEJ225652.6-050007,not-RPE,-0.06,-0.46,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ230430.2+015517,not-RPE,0.26,-0.2,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR2_Sakari2018,RAVEJ232519.0-081554,r-I,0.55,-0.33,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/868/110/,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ00125284+4726278,VMP,,-0.33,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ01171437+2911580,VMP,-0.61,-0.28,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ01261714+2620558,MP,0.23,0.0,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ02462013-1518418,r -II,1.1,0.79,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ04051243+2141326,r -I,0.7,0.19,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ04464970+2124561,"Mg-poor, CEMP-s",0.55,1.7,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ05455436+4420133,VMP,,-0.65,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ06114434+1151292,"Mg-poor, VMP",0.03,-0.6,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ06321853+3547202,"r -I, VMP",0.46,-1.37,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ07424682+3533180,VMP,0.19,0.29,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ07532819+2350207,"Mg-poor, VMP",-0.54,-1.11,upper_limit,upper_limit,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ08011752+4530033,"r -I, EMP",0.35,-0.13,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ08203890+3619470,VMP,-0.15,0.12,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ08471988+3209297,"Mg-poor, VMP",-0.23,0.61,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ09092839+1704521,VMP,,-0.49,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ09143307+2351544,"Limited-r, EMP",-0.06,-0.91,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ09185208+5107215,CEMP-no,0.65,-1.12,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ09261148+1802142,VMP,-0.04,-0.79,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ09563630+5953170,VMP,-0.53,-0.36,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ10122279+2716094,VMP,-0.07,-0.28,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ10542923+2056561,"r -II, MP",1.38,0.15,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ11052721+3305150,"EMP, GCE",-0.27,-0.3,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ12131230+2506598,EMP,,-0.38,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ12334194+1952177,EMP,-0.31,-2.05,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ12445815+5820391,VMP,0.32,0.55,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ13281307+5503080,MP,0.39,0.46,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ13525684+2243314,VMP,,-1.34,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ13545109+3820077,VMP,-0.36,-0.17,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ14245543+2707241,"Mg-poor, VMP",-0.04,-0.17,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ14445238+4038527,VMP,0.29,-0.44,upper_limit,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ15442141+5735135,VMP,0.04,-0.7,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ16374570+3230413,VMP,,-0.61,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ16380702+4059136,"r -II, Mg-poor",1.62,1.27,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ16393877+3616077,MP,,0.11,missing,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ16451495+4357120,CEMP-no,-0.21,-1.13,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ17041197+1626552,CEMP-no,0.62,-0.31,point,point,https://arxiv.org/html/2408.03731#S5.T4,candidate only: CEMP-no label but uniform point-value criteria met
+DR5_Bandyopadhyay2024,2MASSJ17045729+3720576,"r -II, VMP",0.8,0.34,point,point,https://arxiv.org/html/2408.03731#S5.T4,included in main catalogue
+DR5_Bandyopadhyay2024,2MASSJ17125701+4432051,VMP,-0.06,-0.6,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ21463220+2456393,MP,0.3,0.46,point,point,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ22175058+2104371,"Mg-rich, CEMP-no",0.55,-0.96,upper_limit,upper_limit,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+DR5_Bandyopadhyay2024,2MASSJ22424551+2720245,EMP,,-1.58,missing,upper_limit,https://arxiv.org/html/2408.03731#S5.T4,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Racca2025,2MASSJ00401252+2729247,,1.0,0.38,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj00p27.dat,included in main catalogue
+Racca2025,2MASSJ02172993-1903583,,1.57,0.65,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj02m19.dat,included in main catalogue
+Racca2025,2MASSJ02462013-1518419,,1.43,0.78,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj02m15.dat,included in main catalogue
+Racca2025,2MASSJ14301385-2317388,,0.62,0.05,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj14m23.dat,included in main catalogue
+Racca2025,2MASSJ14325334-4125494,,1.49,0.86,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj14m41.dat,included in main catalogue
+Racca2025,2MASSJ19161821-5544454,,0.81,0.11,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj19m55.dat,included in main catalogue
+Racca2025,2MASSJ20093393-3410273,,1.2,0.18,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj20m34.dat,included in main catalogue
+Racca2025,2MASSJ20492765-5124440,,0.39,-0.14,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj20m51.dat,included in main catalogue
+Racca2025,2MASSJ21064294-6828266,,1.06,0.51,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj21m13.dat,included in main catalogue
+Racca2025,2MASSJ21091329-1310253,,1.1,0.52,point,point,https://cdsarc.cds.unistra.fr/ftp/J/A+A/704/A282/abj21m68.dat,included in main catalogue
+Shah2026,2MASSJ00101758-1735387,,1.41,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ00193176+3141441,,0.49,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ00524174-0902235,,0.63,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ01320993+3300431,,0.71,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ01425445-0904162,,0.68,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ01530024-3417360,,0.65,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ01542216+0341454,,0.34,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ03422816-6500355,,0.97,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ04141624-6009048,,1.73,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ06320130-2026538,,0.79,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ07103110-7121522,,0.67,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ07114252-3432368,,1.39,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ07352232-4425010,,0.77,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ08474871-2204315,,0.94,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ09185890-2311511,,0.56,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ09574607-3923072,,0.43,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ10251539-3554026,,0.77,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ10401894-4106124,,0.73,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ11093699-2005278,,0.56,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ11404944-1615396,,0.72,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ12044314-2911051,,0.61,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ12091322-1415313,,0.55,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ12170829+0415146,,0.8,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ12355013-3131112,,0.51,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ13494713-7423395,,0.78,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ14100568-0701443,,0.65,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ14534137+0040467,,1.67,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ15383085-1804242,,1.44,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ16110508-1107125,,0.57,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ17405736-5339473,,0.44,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ17541561-5148268,,0.45,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ18050641-4907579,,0.57,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ18294122-4504000,,0.7,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ19192768-5959140,,0.25,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,intentional historical withdrawal; later non-RPE reclassification
+Shah2026,2MASSJ19215077-4452545,,0.52,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ19291910-5528181,,0.32,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ20050670-3057445,,1.02,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ20554594-3155159,,0.77,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ21051293-0439557,,0.67,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22041814-0232101,,0.39,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22132050-5137385,,2.47,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22190836-2333467,,0.97,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22242502+0111262,,0.55,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22372037-4741375,,0.73,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ22562536-0719562,,0.89,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ23451760-6154429,,1.17,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Shah2026,2MASSJ23513299+3937545,,0.61,,point,missing,https://doi.org/10.3847/1538-4357/ae844b,included in main catalogue
+Agnos2026,2MASSJ14592981-3852558,,0.85,0.13,point,point,https://arxiv.org/html/2605.11087v1#S3.T3,included in main catalogue
+Agnos2026,2MASSJ15211026-0607566,,0.99,0.37,point,point,https://arxiv.org/html/2605.11087v1#S3.T3,included in main catalogue
+Agnos2026,2MASSJ19445483-4039459,,0.23,-0.19,point,point,https://arxiv.org/html/2605.11087v1#S3.T3,intentional historical withdrawal; later non-RPE reclassification
+Mardini2026,2MASSJ01240263+0458154,,1.2,0.56,point,point,https://arxiv.org/html/2605.20614v1#S3.T3,included in main catalogue
+Mardini2026,2MASSJ05471221-3609160,,,-0.44,missing,point,https://arxiv.org/html/2605.20614v1#S3.T3,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Mardini2026,2MASSJ05400394-1837487,,,-0.31,missing,point,https://arxiv.org/html/2605.20614v1#S3.T3,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Mardini2026,SMSSJ003608.15-650438.9,,,-0.6,missing,point,https://arxiv.org/html/2605.20614v1#S3.T3,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Hansen2025,2MASSJ05383296-5904280,,1.29,0.74,point,point,https://arxiv.org/html/2503.13426#S4.T3,included in main catalogue
+Roederer2024,2MASSJ22132050-5137385,,2.45,1.72,point,point,https://arxiv.org/html/2406.02691#S3.T3,included in main catalogue
+Shah2024,2MASSJ00512646-1053170,,1.37,0.65,point,point,https://arxiv.org/html/2401.12311#S6.T2,included in main catalogue
+Placco2020,RAVEJ183013.5-455510,,0.69,0.35,point,point,https://arxiv.org/html/2006.04538#S4.T4,included in main catalogue
+Cain2020,2MASSJ15213995-3538094,,2.23,1.35,point,point,https://arxiv.org/html/2006.08080#S3.T3,included in main catalogue
+Gull2018,RAVEJ094921.8-161722,,0.61,0.99,point,point,https://arxiv.org/html/1806.00645#S2.T2,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Holmbeck2018,2MASSJ09544277+5246414,,1.28,0.35,point,point,https://arxiv.org/html/1805.11925#S3.T2,included in main catalogue
+Cain2018,J0858-0809,,0.27,-0.34,point,point,https://arxiv.org/html/1807.03734#S3.T3,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Cain2018,J1432-4125,,1.44,0.82,point,point,https://arxiv.org/html/1807.03734#S3.T3,included in main catalogue
+Cain2018,J2005-3057,,0.94,0.19,point,point,https://arxiv.org/html/1807.03734#S3.T3,included in main catalogue
+Xylakis2024,2MASSJ00385967+2725516,,0.1,-0.38,point,point,https://arxiv.org/html/2404.03379#S4.T5,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Xylakis2024,2MASSJ20313531-3127319,,0.3,-0.32,point,point,https://arxiv.org/html/2404.03379#S4.T5,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Xylakis2024,2MASSJ21402305-1227035,,-0.22,-0.33,point,point,https://arxiv.org/html/2404.03379#S4.T5,"not selected by existing author-evidence rule; limited-r, non-RPE, mixed r/s or non-main classification"
+Sakari2018_portrait,2MASSJ15383085-1804242,,1.27,,point,missing,https://arxiv.org/pdf/1801.07727,included in main catalogue
+Sakari2019,RAVEJ093730.5-062655,,0.85,,point,missing,https://arxiv.org/pdf/1903.01480,included in main catalogue
+Roederer2018,HD 222925,,1.33,,point,missing,https://arxiv.org/pdf/1808.09469,included in main catalogue
+Roederer2022_HD222925,HD 222925,,1.32,0.54,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJS/260/27/,included in main catalogue
+Placco2017,RAVEJ203843.2-002333,,1.64,0.83,point,point,https://cdsarc.cds.unistra.fr/ftp/J/ApJ/844/18/,included in main catalogue
+Hackshaw2026,2MASSJ00101758-1735387,r-II,1.3,0.85,point,point,https://arxiv.org/html/2610.14987v1#S4.T2,included in main catalogue

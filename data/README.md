@@ -2,7 +2,7 @@
 
 核查日期：2026-11-03。
 
-本版 RPA 主表 344 颗，其他高分辨率主表 387 颗；两类交集 29 颗，合并后 702 颗不同恒星，共 814 条逐文献记录、81 个丰度来源标签。这里是本版已收录数量，不代表完成所有历史文献、所有卫星星系和最新预印本的穷尽普查。
+本版 RPA 主表 344 颗，其他高分辨率主表 410 颗；两类交集 30 颗，合并后 724 颗不同恒星，共 841 条逐文献记录、88 个丰度来源标签。这里是本版已收录数量，不代表完成所有历史文献、所有卫星星系和最新预印本的穷尽普查。
 
 ## 两个主文件
 
@@ -28,7 +28,7 @@
 证据分层（每个来源类别内按恒星计）：
 
 - RPA：有原文分类或作者准则支持 342 颗；仅本版已导入汇编分类支持 2 颗。
-- Other：有原文分类或作者准则支持 147 颗；仅本版已导入汇编分类支持 240 颗。
+- Other：有原文分类或作者准则支持 174 颗；仅本版已导入汇编分类支持 236 颗。
 
 ## 代表值与字段
 
@@ -84,6 +84,14 @@
 
 ## 网站
 
-https://r-process-atlas-gzy-naoc.guozeyu372.chatgpt.site
+https://gzy0005.github.io/r-process-atlas-gzy-naoc/
 
 提供星名/别名检索、类别与证据层筛选、文献筛选、Fe/H与Eu/Fe范围、交互散点图、逐星文献记录及CSV下载。当前为公开访问；沿用现有网站项目。提供分类诊断图、悬浮详情、SVG 和高分辨率 PNG 导出。没有上传你的DR13私人测量。
+
+## 2026-11-03 文献遗漏核查增补
+
+补入 Saraf2023、daSilva2025、Kane2026 银河盘小样本、Hansen2017/Tucana III、Marshall2019/Tucana III、Hansen2020/Grus II、Hansen2024/Tucana V 共27条测量，净增22颗不同恒星。Kane2026仍是公开预印本，作者 r-II 与表列 Eu=0.70 的统一 r-I 分开保存。Tuc V-2 的 Ba/Fe 在同篇表中转换到与 Eu 相同的 Fe I 分母，原 Ba/Fe II 数值和误差保留在 published_ba_fe、published_ba_fe_error；ba_derivation 明确给出推导。未将线间散度伪装成总误差。
+
+RPA749条原始光谱记录已逐项对照；两颗历史撤回对象仍不回填。DR5 J17041197+1626552（原 CEMP-no，数值满足 r-I）和 DR3 J18272432-5655165（原 r-I?）进入独立候选附件。另有 MINCE II 27条、MINCE III 20条数值候选，仍遵守本库作者证据边界，不计入724颗和841条主表总数；附件49条不是49颗新恒星。MINCE离化元素使用Fe II，模型Fe/H和丰度分母不同字段分别保留。
+
+核查报告及可复现清单：[literature_audit_20261103.md](literature_audit_20261103.md)、[literature_additions.csv](literature_additions.csv)、[threshold_candidates.csv](threshold_candidates.csv)、[literature_source_checks.csv](literature_source_checks.csv)、[rpa_screening.csv](rpa_screening.csv)。完整未决范围和逐文献决定见报告。本库仍不宣称所有历史文献/矮星系结果均已穷尽。
