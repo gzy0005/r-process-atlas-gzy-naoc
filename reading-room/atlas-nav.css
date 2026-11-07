@@ -1,0 +1,5 @@
+/* Navigation shared by Atlas reading-room pages. */
+.atlas-back{display:block;margin:0 0 22px;font-size:13px;color:var(--accent,#1b5550);text-decoration:none}.atlas-back:hover{text-decoration:underline}
+.atlas-context{margin:0 0 16px;font:600 12px/1.5 "Segoe UI","Microsoft YaHei",sans-serif;letter-spacing:1px;color:#527c72}.atlas-home-link{font-size:25px;text-decoration:none;color:#087e8b}
+.atlas-graph-nav{display:flex;align-items:center;gap:22px;flex-wrap:wrap}.atlas-graph-nav a{white-space:nowrap}
+@media(max-width:650px){.masthead{flex-wrap:wrap;gap:12px}.atlas-graph-nav{gap:18px}.atlas-home-link{width:29px;flex-basis:29px}.toolbar{column-gap:7px}.atlas-back{font-size:14px}}

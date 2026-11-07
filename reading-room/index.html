@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="《光谱学中的数据驱动方法》完整中英文对照。连续阅读、章节导航、阅读位置记忆与图表查看。">
+  <meta name="theme-color" content="#f6f5f0">
+  <title>光谱阅读室 · R-process Atlas</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231b5550'/%3E%3Cpath d='M10 34C20 7 26 58 34 30S47 30 54 26' fill='none' stroke='%23e7efce' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="reader.css"><link rel="stylesheet" href="atlas-nav.css?v=1">
+  <script src="data.js" defer></script>
+  <script src="reader.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#stream">跳到正文</a>
+  <aside class="sidebar" id="sidebar"><a class="atlas-back" href="../">← R-process Atlas 星表</a>
+    <a href="#page=1" class="brand"><span>∿</span><div>光谱阅读室<small>SPECTROSCOPY READER</small></div></a>
+    <div class="side-title">光谱学中的<br>数据驱动方法</div>
+    <p class="side-author">Melissa K. Ness · 2026</p>
+    <button class="search-launch" id="search-launch"><span>⌕　搜索全文</span><kbd>Ctrl K</kbd></button>
+    <div class="nav-caption">章节目录</div>
+    <nav id="contents" aria-label="章节目录"></nav>
+    <div class="side-tools"><a href="references.html">⌘　参考文献关系图 <span>288</span></a><button id="figures-launch">▧　图表速览 <span>10</span></button><button id="glossary-launch">Aa　中英术语表</button><a href="assets/source.pdf" target="_blank" rel="noopener">↗　原始 PDF</a><button id="print-launch">⎙　打印中文全文</button></div>
+    <div class="side-status"><span class="status-dot"></span>阅读位置自动保存在本机</div>
+  </aside>
+  <div id="scrim" class="scrim"></div>
+  <main>
+    <header class="toolbar"><a class="square-button atlas-home-link" href="../" title="返回星表首页" aria-label="返回 R-process Atlas 星表">✳</a>
+      <button id="menu-toggle" class="square-button" aria-label="展开或收起目录" aria-expanded="true">☰</button>
+      <div class="current-location" id="current-location">摘要</div>
+      <div class="toolbar-controls">
+        <div class="segmented layout-controls" role="group" aria-label="阅读方式"><button data-layout="continuous" aria-pressed="true">连续阅读</button><button data-layout="paged" aria-pressed="false">逐页</button></div>
+        <div class="segmented language-controls" role="group" aria-label="阅读语言"><button data-mode="zh" aria-pressed="false">中文</button><button data-mode="both" aria-pressed="true">中英对照</button><button data-mode="en" aria-pressed="false">英文</button></div>
+        <button id="preferences-launch" class="square-button text-settings" aria-label="阅读设置">Aa</button>
+      </div>
+      <div class="progress-track"><div id="progress-fill"></div></div>
+    </header>
+    <section class="article-heading" id="article-heading"><p class="atlas-context">R-process Atlas / 文献与方法阅读</p>
+      <div class="eyebrow">ANNUAL REVIEW OF ASTRONOMY AND ASTROPHYSICS</div>
+      <h1>光谱学中的数据驱动方法</h1>
+      <p class="english-title">Data-Driven Methods in Spectroscopy</p>
+      <div class="article-meta"><span>Melissa K. Ness</span><span>2026 · 中英文对照全译</span><a href="https://doi.org/10.1146/annurev-astro-052722-095654" target="_blank" rel="noopener">论文 DOI ↗</a></div>
+      <div class="reading-hint"><span>↧</span><p>向下滚动即可连续阅读，章节目录可直接定位。<span>原文页码保留为小标记，可随时打开对应英文原页。</span></p></div>
+      <p style="font-size:13px;margin:18px 0 0"><a href="references.html">探索 288 篇参考文献之间的联系 →</a></p>
+      <button class="resume-button" id="resume-button" hidden>继续上次阅读 →</button>
+    </section>
+    <div class="reading-strip" id="reading-strip"><span id="reading-status">连续阅读 · 41 页全文</span><div><button id="source-current">查阅当前英文原页 ↗</button><label class="sr-only" for="page-select">跳转到原文页码</label><select id="page-select" aria-label="跳转到原文页码"></select></div></div>
+    <div id="stream" class="stream layout-continuous mode-both" tabindex="-1"></div>
+    <div class="paged-navigation" id="paged-navigation" hidden><button id="prev-page">← 上一页</button><span id="paged-status"></span><button id="next-page">下一页 →</button></div>
+    <footer>原作者：Melissa K. Ness。依据所提供的 41 页提前在线版本翻译，非期刊官方译文。<br>正文、图注与脚注完整保留；参考文献保留检索信息。独立补充材料不包含在所提供的 PDF 中。</footer>
+  </main>
+  <div id="reading-position" class="reading-position"><button id="position-original" aria-label="查看当前页的英文原文"><span id="position-label">原文 3.1 / 3.41</span> ↗</button><button id="back-top" aria-label="回到顶部">↑</button></div>
+  <dialog id="preferences-dialog" class="preferences-dialog">
+    <div class="dialog-heading"><h2>阅读设置</h2><button data-close="preferences-dialog" aria-label="关闭阅读设置">×</button></div>
+    <div class="setting-row"><span>中文字号</span><div class="font-controls"><button id="font-minus" aria-label="减小中文字号">A−</button><output id="font-value">18</output><button id="font-plus" aria-label="增大中文字号">A＋</button></div></div>
+    <div class="setting-row"><span>阅读方式</span><div class="segmented"><button data-layout="continuous" aria-pressed="true">连续阅读</button><button data-layout="paged" aria-pressed="false">逐页</button></div></div>
+    <div class="setting-row"><span>页面底色</span><div class="theme-options" role="group" aria-label="页面底色"><button data-theme="paper" aria-pressed="true">纸白</button><button data-theme="warm" aria-pressed="false">暖色</button><button data-theme="dark" aria-pressed="false">深色</button></div></div>
+    <p class="dialog-description">字号、阅读方式、语言和阅读位置会自动保存在当前浏览器。</p>
+  </dialog>
+  <dialog id="search-dialog" class="search-dialog"><div class="dialog-heading"><h2>搜索全文</h2><button data-close="search-dialog" aria-label="关闭搜索">×</button></div><label class="sr-only" for="search-input">中文或英文关键词</label><input id="search-input" type="search" placeholder="输入关键词、作者或方法名…" autocomplete="off"><p id="search-summary" class="dialog-description">可搜索中文译文及英文原文。</p><div id="search-results"></div></dialog>
+  <dialog id="glossary-dialog"><div class="dialog-heading"><h2>中英术语表</h2><button data-close="glossary-dialog" aria-label="关闭术语表">×</button></div><div id="glossary"></div></dialog>
+  <dialog id="figures-dialog" class="figures-dialog"><div class="dialog-heading"><h2>图表速览</h2><button data-close="figures-dialog" aria-label="关闭图表速览">×</button></div><p class="dialog-description">点图片放大，点“回到正文”定位到图注。</p><div id="figure-gallery" class="figure-gallery"></div></dialog>
+  <dialog id="image-dialog" class="image-dialog"><div class="image-toolbar"><strong id="image-title">英文原页</strong><div class="zoom-controls"><button id="zoom-minus" aria-label="缩小图片">−</button><output id="zoom-label">适应宽度</output><button id="zoom-plus" aria-label="放大图片">＋</button><button id="image-rotate" aria-label="旋转图片90度" title="旋转90°">↻</button><button id="zoom-fit">适应宽度</button></div><button data-close="image-dialog" aria-label="关闭图片">×</button></div><div id="image-stage" class="image-stage"><div id="image-canvas" class="image-canvas"><img id="image-view" alt="原文图像"></div></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="print-content" class="print-content"></div>
+  <noscript>请启用 JavaScript，或直接打开 <a href="assets/source.pdf">原始 PDF</a>。</noscript>
+</body>
+</html>

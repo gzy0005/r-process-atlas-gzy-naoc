@@ -53,3 +53,9 @@ aside label, .plot-controls label{line-height:1.6}
 .axis-directions>span{font-size:12px;margin-left:auto}
 @media(max-width:1100px){.axis-directions{padding-left:18px;padding-right:18px}.axis-directions>span{margin-left:0}}
 @media(max-width:650px){.axis-directions{padding:7px 15px 10px;gap:10px 22px}.axis-directions .checkbox{font-size:14px}.axis-directions>span{width:100%;font-size:12px}}
+
+/* Secondary reading room entry; the catalogue remains the homepage focus. */
+.reading-room-entry{display:flex;align-items:center;justify-content:space-between;gap:28px;margin:0 0 34px;padding:24px 28px;border:1px solid var(--line);border-radius:9px;background:#f6f9f5}
+.reading-room-entry .eyebrow{font-size:12px;letter-spacing:1.7px}.reading-room-entry h2{font-size:23px;margin:5px 0 7px}.reading-room-entry p{max-width:690px;margin:0;color:var(--muted);font-size:15px}
+.reading-room-links{display:grid;gap:8px;min-width:220px}.reading-room-links a{display:flex;justify-content:space-between;gap:18px;padding:9px 12px;border:1px solid #d7e3df;border-radius:5px;background:white;color:#126d76;font-size:14px}.reading-room-links a:hover{border-color:var(--teal);background:#eef6f3}
+@media(max-width:650px){header nav{flex-wrap:wrap;gap:10px 18px}.reading-room-entry{align-items:stretch;flex-direction:column;padding:21px 18px;gap:16px}.reading-room-entry h2{font-size:21px}.reading-room-links{min-width:0}}

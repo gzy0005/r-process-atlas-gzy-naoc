@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="zh-CN">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="检索公开文献报道的 r 过程增丰恒星，使用统一的 0.3 / 0.7 分类阈值，逐星追溯原始丰度测量。"><title>R-process Atlas · 文献证认恒星库</title><link rel="stylesheet" href="style.css?v=4"></head>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="检索公开文献报道的 r 过程增丰恒星，使用统一的 0.3 / 0.7 分类阈值，逐星追溯原始丰度测量。"><title>R-process Atlas · 文献证认恒星库</title><link rel="stylesheet" href="style.css?v=6"></head>
 <body>
-<header><a class="brand" href="#explore"><span class="mark">✳</span><span>R-process <b>Atlas</b><small>文献证认恒星库</small></span></a><nav><a href="#explore">探索星表</a><a href="#sources">文献与方法</a><a class="nav-download" href="#downloads">下载数据 ↗</a></nav></header>
+<header><a class="brand" href="#explore"><span class="mark">✳</span><span>R-process <b>Atlas</b><small>文献证认恒星库</small></span></a><nav><a href="#explore">探索星表</a><a href="#sources">文献与方法</a><a href="reading-room/">光谱阅读室</a><a class="nav-download" href="#downloads">下载数据 ↗</a></nav></header>
 <main>
 <section class="hero"><div class="eyebrow">STELLAR CHEMICAL ARCHAEOLOGY · 2026.11</div><h1>追溯重元素，<br><span>从每一颗恒星开始。</span></h1><p>探索文献报道的 r 过程增丰恒星。统一分类阈值，保留独立测量，<br class="desktop">让每一个丰度值、每一次分类，都有可追溯的出处。</p><div class="hero-note">统一 r-I / r-II · 原始来源可查 · 保留文献分类</div><div class="orbit" aria-hidden="true"><i></i><i></i><i></i><span>Eu</span><small>63<br>Europium</small></div></section>
 <section class="stats" id="stats" aria-live="polite"></section>
@@ -52,6 +52,10 @@
 <article><span>02 / 分类</span><h3>同一标准，保留原始结论</h3><p>采用 Holmbeck et al. (2020) 的 0.3 / 0.7 分界，且要求 [Ba/Eu] &lt; 0。统一 r-II 包含原文 r-III；CEMP 为独立保留的属性。Eu = 0.30 标记为边界，缺值或限值标记为待判定。详情同时展示文献分类与证据。</p></article>
 <article><span>03 / 测量</span><h3>保留文献间的差异</h3><p>代表值来自同一条文献记录，优先原文证据、Eu/Ba 检出及较新发表的记录。不跨论文拼接 Ba/Eu，不平均丰度。统一分类阈值不代表太阳标尺、LTE / NLTE 或分析方法已统一。</p></article>
 </div><details><summary>查看本版收录文献与范围说明 <span>＋</span></summary><p class="coverage">本版是文献工作汇编，保留 724 颗不同恒星、841 条逐文献测量；本轮补入 27 条测量，净增 22 颗恒星；数值候选另附清单，不计入主表。未满足阈值或暂无法计算的记录仍保留并明确标记，不能计入严格统一 r-I / r-II 样本。本版并非全球所有文献的穷尽检索，部分早期数据仍依赖 Shank (2023) 汇编，原文证据尚未全部复核。图中的点值不包含缺失或限值，未导入的误差条不作推定。</p><p class="coverage"><a href="https://arxiv.org/abs/2007.00749" target="_blank" rel="noopener">Holmbeck et al. (2020) 分类依据 ↗</a>　<a href="data/literature_audit_20261103.md" target="_blank" rel="noopener">本轮文献核查报告 ↗</a>　<a href="data/literature_additions.csv" download>27 条新增测量 ↓</a>　<a href="data/threshold_candidates.csv" download>49 条独立候选记录 ↓</a>　<a href="data/README.md" download>字段与方法说明 ↓</a>　<a href="data/uniform_classification_changes.csv" download>分类变更核对表 ↓</a></p><div id="sourceList"></div></details></section>
+<section class="reading-room-entry" aria-labelledby="reading-room-title">
+<div><div class="eyebrow">READING &amp; METHODS</div><h2 id="reading-room-title">光谱阅读室</h2><p>阅读 Ness（2026）综述，了解跨巡天丰度尺度、The Cannon 与数据驱动光谱方法。</p></div>
+<div class="reading-room-links"><a href="reading-room/">41 页中英对照阅读 <span>→</span></a><a href="reading-room/references.html">288 篇参考文献脉络 <span>↗</span></a></div>
+</section>
 <section id="downloads"><div><div class="eyebrow">TAKE THE DATA WITH YOU</div><h2>下载文献星表</h2><p>UTF-8 CSV · 统一分类 + 文献原分类 · 分类状态 · 原始测量与证据</p></div><div class="download-links"><a href="data/RPA_confirmed_RPE_stars.csv" download>RPA 星表 <span>CSV ↓</span></a><a href="data/Other_highres_confirmed_RPE_stars.csv" download>其他高分辨率星表 <span>CSV ↓</span></a><a href="data/publication_measurements.csv" download>逐文献独立测量 <span>CSV ↓</span></a></div></section>
 </main><footer><b>R-process Atlas</b><span>文献快照 · 2026-11-03　|　统一分类 v2　|　查询方式参考 Hypatia，非其官方站点。</span></footer>
 <dialog id="detail"><button class="close" aria-label="关闭详情">×</button><div id="detailContent"></div></dialog><div id="tooltip" role="tooltip"></div><div id="notice" role="status" aria-live="polite"></div><script src="app.js?v=5"></script>

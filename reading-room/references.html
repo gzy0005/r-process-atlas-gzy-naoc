@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Ness 2026 光谱学综述的288条参考文献交互图谱：主题、段落共现、已核实引用与原文依据。">
+  <meta name="theme-color" content="#f5f4ee"><title>文献脉络图 · R-process Atlas 光谱阅读室</title>
+  <link rel="stylesheet" href="reference-graph.css?v=5"><script src="reference-data.js?v=5" defer></script><script src="reference-graph.js?v=5" defer></script>
+<link rel="stylesheet" href="atlas-nav.css?v=1"></head>
+<body>
+  <a class="skip" href="#paper-list">跳到文献列表</a>
+  <header class="masthead"><a class="brand" href="index.html"><span>∿</span><div>光谱阅读室<small>SPECTROSCOPY READER</small></div></a><nav class="atlas-graph-nav"><a class="back-link" href="index.html">← 连续阅读</a><a class="back-link" href="../">返回星表 ↗</a></nav></header>
+  <main>
+    <section class="intro"><div><p class="eyebrow">NESS 2026 · LITERATURE EXPLORER</p><h1>沿着文献，读懂方法的联系。</h1><p class="subtitle">从 The Cannon 到跨巡天标签迁移，探索这篇综述中的 <strong>288 篇参考文献</strong>。</p></div><button id="method-button" class="quiet-button">图谱依据与阅读方法 ↗</button></section>
+    <section class="explorer" aria-label="参考文献探索器">
+      <div class="controls"><div class="mode-tabs" role="group" aria-label="图谱范围"><button data-mode="core" aria-pressed="true">核心脉络 <span id="core-count"></span></button><button data-mode="all" aria-pressed="false">全部 288 篇</button><button data-mode="ego" aria-pressed="false">一阶关系</button></div><button class="cannon-shortcut" id="cannon-focus">聚焦 The Cannon →</button><div class="filter-row"><label>主题 <select id="theme-filter"><option value="all">全部主题</option></select></label><label>共现 <select id="weight-filter"><option value="1" selected>≥ 1 段</option><option value="2">≥ 2 段</option><option value="3">≥ 3 段</option></select></label><label class="connection-label">连线 <select id="connection-mode"><option value="spine" selected>主干关系</option><option value="all">全部关系</option><option value="focus">仅选中论文</option></select></label><div class="edge-toggles"><label><input id="show-citation" type="checkbox" checked><span class="line-sample directed"></span>已核实引用</label><label><input id="show-cooccurrence" type="checkbox" checked><span class="line-sample dashed"></span>段落共现</label></div></div></div>
+      <div class="workspace">
+        <div class="map-column"><div class="view-navigation"><button id="overview-return">← 返回主脉络</button><span id="view-description">参考数据 · 模型方法 · 科学应用</span><button id="expand-map" aria-pressed="false">⛶ 放大工作区</button></div><div class="map-status"><span id="graph-summary" role="status" aria-live="polite"></span><span id="label-status"></span></div>
+          <div class="graph-stage" id="graph-stage"><svg id="network" xmlns="http://www.w3.org/2000/svg" aria-labelledby="graph-title graph-desc" tabindex="0"><title id="graph-title">参考文献关系节点图</title><desc id="graph-desc">圆点为论文。左侧为参考数据，中部为模型方法，周围为应用。主干关系默认显示，点击节点查看完整题名，点击连线查证据。</desc><defs><marker id="arrow" viewBox="0 -4 8 8" refX="8" refY="0" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,-3 L8,0 L0,3" fill="#39756c"/></marker><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#d9ddd3"/></pattern></defs><rect width="100%" height="100%" fill="url(#dots)"/><g id="world"><g id="clusters"></g><g id="edges"></g><g id="nodes"></g></g><g id="labels"></g></svg>
+            <button id="selected-banner" hidden></button>
+            <div class="map-tools"><button id="zoom-in" aria-label="放大图谱">＋</button><button id="zoom-out" aria-label="缩小图谱">−</button><button id="fit-map" aria-label="适应图谱大小">⤢</button><button id="export-map" aria-label="下载当前图谱为SVG图片" title="下载 SVG">↓</button></div><p class="empty-map" id="empty-map" hidden>当前筛选没有文献。试试“全部主题”或切换图谱范围。</p><div id="node-tooltip" role="tooltip" hidden></div>
+          </div>
+          <div class="map-bottom"><span id="interaction-hint">点击论文看标题 · 点击连线查依据 · 拖动 / 缩放浏览</span><button id="clear-selection">清除选择</button></div>
+          <div class="theme-legend" id="theme-legend" aria-label="主题颜色"></div>
+          <p class="evidence-note"><strong>两种连线，分别解读。</strong>虚线只表示综述在同一段讨论了两篇文献；箭头表示经来源论文核实的引用。箭头仅覆盖已检查的核心论文，<b>不是完整引文网络</b>。</p>
+        </div>
+        <aside class="inspector" aria-label="文献与关系详情"><div class="library"><label for="paper-search">查找具体论文 <span>全部 288 篇 · /</span></label><div class="search-box"><span>⌕</span><input id="paper-search" type="search" placeholder="论文标题、方法、作者或 DOI…" autocomplete="off"><button id="clear-search" aria-label="清空搜索">×</button></div><div class="list-status" id="list-status"></div><div id="paper-list" class="paper-list" tabindex="-1" hidden></div></div><div id="detail-panel" class="detail-panel" aria-live="polite"></div></aside>
+      </div>
+    </section>
+    <footer><span>依据所提供的 41 页 Review in Advance 版本。文献年份及 a/b 后缀沿用该综述。</span><a href="reference-data.json" download="ness-2026-reference-graph.json">下载关系数据 JSON ↗</a><a href="assets/source.pdf#page=35" target="_blank" rel="noopener">原始参考文献 ↗</a></footer>
+  </main>
+  <dialog id="method-dialog"><div class="dialog-top"><h2>这张图是怎样建立的？</h2><button id="close-method" aria-label="关闭说明">×</button></div><p>节点来自综述文末的全部 <strong>288 条参考文献</strong>；“核心脉络”是为阅读选出的代表性文献，不是质量或影响力排名。</p><h3>实线箭头：核实过的引用</h3><p>逐项检查部分核心论文的正文、摘要或参考文献，建立 <strong id="citation-total"></strong> 条引用关系。箭头从引用者指向被引用者。点击连线可打开来源论文。这里只展示已核实的部分，不能用节点的入度比较论文影响力。</p><h3>虚线：综述中的段落共现</h3><p>从中文对照正文中匹配作者和年份；两篇文献在同一段出现，就建立一条无向关系。粗细表示共现段落数。可查看对应译文段落和 PDF 页码。共现可能来自方法比较、背景说明或应用讨论，<strong>不等于两篇论文互相引用，也不自动表示继承关系</strong>。</p><h3>颜色与大小</h3><p>颜色根据综述讨论文献的主题归组，核心条目结合明确用途人工调整；圆点大小反映正文中匹配到的提及段落数。位置仅用于排版，不编码年代、距离或因果强度。</p><h3>覆盖边界</h3><p id="coverage-note"></p><p>正文匹配受跨页段落、表格图像、作者拼写与引用格式影响。没有自动匹配到正文的条目也完整保留；“无记录”不能解释为论文不重要或未被讨论。完整条目保留原综述的作者、年份、期刊与卷页；原文未列出的标题不作补猜。</p><div class="method-links"><a href="assets/source.pdf#page=35" target="_blank" rel="noopener">查阅原始文献表 ↗</a><a href="reference-data.json" download>下载可追溯数据 ↗</a></div></dialog>
+  <div class="toast" id="toast" role="status"></div><noscript>请启用 JavaScript 使用交互图谱，或<a href="assets/source.pdf#page=35">查看原始参考文献</a>。</noscript>
+</body></html>
